@@ -81,6 +81,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Bremen
 - Dortmund
 - Dresden
+	- Verkehrsentwicklungsplan 2025plus (Transport Development Plan 2025plus): https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
+ 	- Green City Plan: https://www.dresden.de/media/pdf/stadtplanung/verkehr/GCP_Dresden.pdf
+ 	- Pedestrian Strategy:  
 - Duisburg
 - Düsseldorf
 - Essen
