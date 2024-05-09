@@ -74,7 +74,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Berlin
-	- Stadtentwicklungsplan Mobilität und Verkehr (Urban Development Plan for Mobility and Transport), 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
+	- Berliner Mobilitätsgesetz (Berlin Mobility Act): https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
+ 		- Radverkehrsplan (Cycling Plan):  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
+   		- Nahverkehrsplan (public transport plan): https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
+     		- Stadtentwicklungsplan Mobilität und Verkehr (Urban Development Plan for Mobility and Transport), 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
 - Bielefeld
 - Bochum
 - Bonn
@@ -90,6 +93,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Frankfurt am Main
 - Hamburg
 - Hannover
+- Kiel
+- 
 - Köln
 - Leipzig
 - München
