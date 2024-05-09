@@ -73,7 +73,27 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
--
+- Berlin
+	- Stadtentwicklungsplan Mobilität und Verkehr (Urban Development Plan for Mobility and Transport), 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
+- Bielefeld
+- Bochum
+- Bonn
+- Bremen
+- Dortmund
+- Dresden
+- Duisburg
+- Düsseldorf
+- Essen
+- Frankfurt am Main
+- Hamburg
+- Hannover
+- Köln
+- Leipzig
+- München
+- Münster
+- Nürnberg
+- Stuttgart
+- Wuppertal
 
 ### Studies and research papers <a name="studies-research"></a> 
 
