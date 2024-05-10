@@ -1,4 +1,4 @@
-# Transport in 
+# Transport in Germany
 Plans, data and other documents on transport in Germany
 
 <b> 
@@ -78,6 +78,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
  		- Radverkehrsplan (Cycling Plan):  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
    		- Nahverkehrsplan (public transport plan): https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
      	- Stadtentwicklungsplan Mobilität und Verkehr (Urban Development Plan for Mobility and Transport), 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
+     	- Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237 
 - Bielefeld
 - Bochum
 - Bonn
@@ -94,7 +95,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Hamburg
 - Hannover
 - Kiel
-- 
+	- Verkehrsentwicklungsplan 2008 *( : https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/verkehrsentwicklungsplan.php); https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_vep/VEP_Langfassung_final.pdf
+ 	- Konzeptpapier Mobilitätskonzept | ruhender Kfz-Verkehr 2035 *(Concept Paper Mobility Concept | Parking concept 2035)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_dokumente_ruhender_verkehr/kiel_konzept_ruhender_verkehr.pdf
 - Köln
 - Leipzig
 - München
