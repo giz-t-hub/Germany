@@ -44,6 +44,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
+	- 2024 National Inventory Document (NID): https://unfccc.int/documents/637995
     
 - Adaptation
    
