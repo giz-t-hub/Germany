@@ -49,6 +49,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 	- 2024 National Inventory Document (NID): https://unfccc.int/documents/637995
     
 - Adaptation
+	- Deutsche Anpassungsstrategie an den Klimawandel *(German Strategy for Adaptation to Climate Change)*: https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Klimaanpassung/das_gesamt_bf.pdf
+	- Klimawirkungs- und Risikoanalyse für Deutschland 2021 (Kurzfassung) *(Climate Impact and Risk Analysis for Germany 2021 (short version))*: https://www.umweltbundesamt.de/en/publikationen/KWRA-Zusammenfassung
    
 
 - Energy policy 
