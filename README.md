@@ -51,6 +51,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Adaptation
 	- Deutsche Anpassungsstrategie an den Klimawandel *(German Strategy for Adaptation to Climate Change)*: https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Klimaanpassung/das_gesamt_bf.pdf
 	- Klimawirkungs- und Risikoanalyse für Deutschland 2021 (Kurzfassung) *(Climate Impact and Risk Analysis for Germany 2021 (short version))*: https://www.umweltbundesamt.de/en/publikationen/KWRA-Zusammenfassung
+	- Aktionsplan Anpassung *(Action plan adaptation)*: https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/anpassung-an-den-klimawandel/anpassung-auf-bundesebene-neu/aktionsplan-anpassung
    
 
 - Energy policy 
