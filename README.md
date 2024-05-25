@@ -69,6 +69,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	- Klimaschutzplan 2050: https://www.bmwk.de/Redaktion/DE/Publikationen/Industrie/klimaschutzplan-2050.html ; EN: Climate Action Plan 2050: https://www.bmuv.de/publikation/climate-action-plan-2050-de
   	- Klimaschutzprogramm 2023 der Bundesregierung: https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/20231004-klimaschutzprogramm-der-bundesregierung.pdf?__blob=publicationFile&v=10;   EN: Climate Action Programme of the German Federal Government: https://www.bmwk.de/Redaktion/EN/Downloads/C/climate-action-programme-2023.pdf?__blob=publicationFile&v=2
   	- Bundes-Klimaschutzgesetz (KSG) *(Federal Climate Protection Act )*;  https://www.gesetze-im-internet.de/ksg/BJNR251310019.html
+  	- Klimaschutz im Verkehr – Strategien, Beratungs- und Vernetzungsaktivitäten *(Climate protection in transport – strategies, advisory and networking activities)*: https://bmdv.bund.de/DE/Themen/Mobilitaet/Klimaschutz-im-Verkehr/Strategien-Beratungs-und-Vernetzungsaktivitaeten/strategien-beratungs-und-vernetzungsaktivitaeten.html
     
 - Adaptation
 	- Deutsche Anpassungsstrategie an den Klimawandel *(German Strategy for Adaptation to Climate Change)*: https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Klimaanpassung/das_gesamt_bf.pdf
@@ -157,6 +158,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Data <a name="data"></a>
 
+- Mobilität in Deutschland (MiD) *(Mobility in Germany)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/mobilitaet-in-deutschland.html
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
 
