@@ -49,6 +49,10 @@ For the future of Germany as a maritime business location)*: https://www.bmwk.de
 - Die Nationale Hafenstrategie *(The National Ports Strategy)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
   
 - Aviation:
+
+- Electric mobility:
+	- Elektromobilität in Deutschland *(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html
+
 - Logistics:
 	- Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft *(Action Plan 
 Freight transport and logistics - Sustainable and efficient into the future)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/aktionsplan-gueterverkehr-und-logistik.pdf?__blob=publicationFile
