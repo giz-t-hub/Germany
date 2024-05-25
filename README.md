@@ -87,6 +87,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
        - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237 
 - Bielefeld
 - Bochum
+	- Mobilitätskonzept der Stadt Bochum *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
+	- Leitbild Mobilität 2030 *(Mobility 2030 mission statement)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Leitbild-Mobilitaet-2030
 - Bonn
 - Bremen
 - Dortmund
