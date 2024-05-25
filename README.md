@@ -32,7 +32,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
  - 
 
 - General
-
+	- Die deutsche Nachhaltigkeitsstrategie *(German Sustainable Development Strategy)*: https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/deutsche-nachhaltigkeitsstrategie-318846; EN: [https://www.bundesregierung.de/resource/blob/975226/455740/260a9307085b9c7ef7543672f2147fe8/2017-06-20-langfassung-n-en-data.pdf?download=1](https://www.bundesregierung.de/resource/blob/975274/1941044/bdb1a9f7f4c14005a1a3e92a6cce777d/2021-07-09-kurzpapier-n-englisch-data.pdf?download=1)
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -46,7 +46,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Inland waterways, ports:
 	- Maritime Agenda 2025 - Für die Zukunft des maritimen Wirtschaftsstandorts Deutschland *(Maritime Agenda 2025
 For the future of Germany as a maritime business location)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Wirtschaft/maritime-agenda-2025.html
-- Die Nationale Hafenstrategie *(The National Ports Strategy)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
+	- Die Nationale Hafenstrategie *(The National Ports Strategy)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
   
 - Aviation:
 	- Unmanned Aircraft Systems and Innovative Aviation Strategies The Federal Government’s Action Plan: ttps://bmdv.bund.de/SharedDocs/DE/Anlage/DG/aktionsplan-drohnen-englisch.pdf?__blob=publicationFile
