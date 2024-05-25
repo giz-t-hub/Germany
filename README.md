@@ -37,13 +37,16 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
+	- Masterplan Schienengüterverkehr *(Masterplan Rail freight transport)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/E/masterplan-schienengueterverkehr.pdf?__blob=publicationFile
  
 - Roads:
+- Cycling:
+	- Nationaler Radverkehrsplan 3.0 *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
     
 - Inland waterways, ports:
 - Aviation:
 - Logistics:
-	- Aktionsplan Güterverkehr und Logistik - nachhaltig und efzient in die Zukunft *(Action Plan 
+	- Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft *(Action Plan 
 Freight transport and logistics - Sustainable and efficient into the future)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/aktionsplan-gueterverkehr-und-logistik.pdf?__blob=publicationFile
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
