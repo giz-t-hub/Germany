@@ -124,6 +124,10 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Berlin (see chapter "Local Transport Plans)
 - Brandenburg
 	- Mobilitätsstrategie 2030 des Landes Brandenburg: https://mil.brandenburg.de/sixcms/media.php/9/Mobilitaetsstrategie-Brandenburg-2030.pdf
+ 	- Radverkehrsstrategie 2030 des Landes Brandenburg *(Cycling strategy 2030)*: https://mil.brandenburg.de/sixcms/media.php/9/Radverkehrsstrategie%202030%20des%20Landes%20Brandenburg.pdf
+  	- Resilient im Klimawandel – Klimaanpassung in Städten und Gemeinden: https://mil.brandenburg.de/sixcms/media.php/9/Arbeitshilfe%20Resilient%20im%20Klimawandel.pdf	
+ 	- Verkehrssicherheitsprogramm 2024: https://mil.brandenburg.de/sixcms/media.php/9/Verkehrssicherheitsprogramm_2024_bf.pdf
+  	- Overview: https://mil.brandenburg.de/mil/de/themen/mobilitaet-verkehr/
 - Bremen (see chapter "Local Transport Plans)
 - Hamburg (see chapter "Local Transport Plans)
 - Hesse (Hessen)
