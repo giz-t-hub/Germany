@@ -112,6 +112,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - Baden-Württemberg
 	- ÖPNV-Strategie 2030 *(Public transport strategy 2030)*: https://vm.baden-wuerttemberg.de/de/service/publikation/did/oepnv-strategie-2030-broschuere
+	- Verkehrssicherheitskonzept Baden-Württemberg: https://vm.baden-wuerttemberg.de/de/service/publikation/did/verkehrssicherheitskonzept-baden-wuerttemberg
+	- Digitale Mobilität: https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/Broschueren_Publikationen/200625_MfV_Bro_Digitale_Mobilita%CC%88t_A4_56S_WEB.pdf
 - Bavaria (Bayern)
 - Berlin
 - Brandenburg
