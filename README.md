@@ -51,7 +51,9 @@ For the future of Germany as a maritime business location)*: https://www.bmwk.de
 - Aviation:
 
 - Electric mobility:
-	- Elektromobilität in Deutschland *(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html
+	- Elektromobilität in Deutschland *(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html; EN: https://www.bmwk.de/Redaktion/EN/Dossier/electric-mobility.html
+	- Masterplan Ladeinfrastruktur II *(Master plan charging infrastructure)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/G/masterplan-ladeinfrastruktur-2.pdf?__blob=publicationFile
+	- Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge https://www.gesetze-im-internet.de/emog/index.html
 
 - Logistics:
 	- Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft *(Action Plan 
