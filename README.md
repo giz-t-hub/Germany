@@ -36,28 +36,23 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
-- Railways:
-	- Masterplan Schienengüterverkehr *(Masterplan Rail freight transport)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/E/masterplan-schienengueterverkehr.pdf?__blob=publicationFile
- 
-- Roads:
-	- Verkehrssicherheitsprogramm der Bundesregierung 2021-2030  *(Federal Government's Road Safety Programme 2021-2030)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/broschuere-verkehrssicherheitsprogramm-2021-bis-2030.pdf?__blob=publicationFile
-
-- Cycling:
-	- Nationaler Radverkehrsplan 3.0 *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
-    
-- Inland waterways, ports:
-	- Maritime Agenda 2025 - Für die Zukunft des maritimen Wirtschaftsstandorts Deutschland *(Maritime Agenda 2025
-For the future of Germany as a maritime business location)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Wirtschaft/maritime-agenda-2025.html
-	- Die Nationale Hafenstrategie *(The National Ports Strategy)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
-  
 - Aviation:
 	- Unmanned Aircraft Systems and Innovative Aviation Strategies The Federal Government’s Action Plan: https://bmdv.bund.de/SharedDocs/DE/Anlage/DG/aktionsplan-drohnen-englisch.pdf?__blob=publicationFile
   	- Die Luftfahrtstrategie der Bundesregierung (*The Federal Government's Aviation Strategy)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Technologie/luftfahrtstrategie-der-bundesregierung.html
 
+- Cycling:
+	- Nationaler Radverkehrsplan 3.0 *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
+    
 - Electric mobility:
 	- Elektromobilität in Deutschland *(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html; EN: https://www.bmwk.de/Redaktion/EN/Dossier/electric-mobility.html
 	- Masterplan Ladeinfrastruktur II *(Master plan charging infrastructure)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/G/masterplan-ladeinfrastruktur-2.pdf?__blob=publicationFile
 	- Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge *(Act on the Preferential Use of Electrically Powered Vehicles)*: https://www.gesetze-im-internet.de/emog/index.html
+
+
+- Inland waterways, ports:
+	- Maritime Agenda 2025 - Für die Zukunft des maritimen Wirtschaftsstandorts Deutschland *(Maritime Agenda 2025
+For the future of Germany as a maritime business location)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Wirtschaft/maritime-agenda-2025.html
+	- Die Nationale Hafenstrategie *(The National Ports Strategy)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
 
 - Logistics:
 	- Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft *(Action Plan 
@@ -65,6 +60,15 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - Public transport:
 	- Gemeindeverkehrsfinanzierungsgesetz *(Municipal Transport Financing Act)*: https://www.gesetze-im-internet.de/gvfg/GVFG.pdf 
+
+- Railways:
+	- Masterplan Schienengüterverkehr *(Masterplan Rail freight transport)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/E/masterplan-schienengueterverkehr.pdf?__blob=publicationFile
+ 
+- Roads:
+	- Verkehrssicherheitsprogramm der Bundesregierung 2021-2030  *(Federal Government's Road Safety Programme 2021-2030)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/broschuere-verkehrssicherheitsprogramm-2021-bis-2030.pdf?__blob=publicationFile
+
+
+
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -102,7 +106,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Gender and Equality <a name="gender"></a>
 
--
+- Gleichstellungsstrategie der Bundesregierung *(The Federal Government's Gender Equality Strategy)*: https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/gleichstellung-und-teilhabe/gleichstellungsstrategie-der-bundesregierung/die-gleichstellungsstrategie-der-bundesregierung-154174
 
 ### State Transport Plans <a name="state-transport-plans"></a>
 
