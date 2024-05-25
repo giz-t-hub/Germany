@@ -49,6 +49,8 @@ For the future of Germany as a maritime business location)*: https://www.bmwk.de
 - Die Nationale Hafenstrategie *(The National Ports Strategy)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
   
 - Aviation:
+	- Unmanned Aircraft Systems and Innovative Aviation Strategies The Federal Government’s Action Plan: ttps://bmdv.bund.de/SharedDocs/DE/Anlage/DG/aktionsplan-drohnen-englisch.pdf?__blob=publicationFile
+  	- Die Luftfahrtstrategie der Bundesregierung (*The Federal Government's Aviation Strategy)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Technologie/luftfahrtstrategie-der-bundesregierung.html
 
 - Electric mobility:
 	- Elektromobilität in Deutschland *(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html; EN: https://www.bmwk.de/Redaktion/EN/Dossier/electric-mobility.html
