@@ -128,6 +128,9 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Hamburg (see chapter "Local Transport Plans)
 - Hesse (Hessen)
 	- Hessenstrategie Mobilität 2035: https://www.mobileshessen2030.de/mm/105_55_Hessenstrategie_Mobilitat_2035_online.pdf
+	- Nahmobilitätsstrategie für Hessen: https://www.nahmobil-hessen.de/wp-content/uploads/2019/07/2019-07-23_Nahmobilit%C3%A4tsstrategie_GESAMT_web.pdf
+	- Radverkehr: Musterlösungen und Qualitätsstandards *(Cycling: Model solutions and quality standards)*: https://www.nahmobil-hessen.de/unterstuetzung/planen-und-bauen/schneller-radfahren/musterloesungen-und-qualitaetsstandards/
+	- Overview: https://wirtschaft.hessen.de/verkehr 
 - Lower Saxony (Niedersachsen)
 - Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
 - North Rhine-Westphalia (Nordrhein-Westfalen)
