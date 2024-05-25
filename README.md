@@ -44,6 +44,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 	- Nationaler Radverkehrsplan 3.0 *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
     
 - Inland waterways, ports:
+	- Maritime Agenda 2025 - Für die Zukunft des maritimen Wirtschaftsstandorts Deutschland *(Maritime Agenda 2025
+For the future of Germany as a maritime business location)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Wirtschaft/maritime-agenda-2025.html
+- Die Nationale Hafenstrategie *(The National Ports Strategy)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
+  
 - Aviation:
 - Logistics:
 	- Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft *(Action Plan 
