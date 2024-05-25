@@ -117,6 +117,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- Verkehrssicherheitskonzept Baden-Württemberg: https://vm.baden-wuerttemberg.de/de/service/publikation/did/verkehrssicherheitskonzept-baden-wuerttemberg
 	- Digitale Mobilität: https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/Broschueren_Publikationen/200625_MfV_Bro_Digitale_Mobilita%CC%88t_A4_56S_WEB.pdf
 - Bavaria (Bayern)
+	- ÖPNV-Strategie 2030 für den Freistaat Bayern: https://www.stmb.bayern.de/assets/stmi/med/aktuell/stmb_o%CC%88pnv-strategie_bayern_endbericht-2022-12-07-rz-bf.pdf
+  	- Overview: https://www.stmb.bayern.de/vum/handlungsfelder/index.php
 - Berlin
 - Brandenburg
 	- Mobilitätsstrategie 2030 des Landes Brandenburg: https://mil.brandenburg.de/sixcms/media.php/9/Mobilitaetsstrategie-Brandenburg-2030.pdf
