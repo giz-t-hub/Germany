@@ -87,10 +87,14 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
        - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237 
 - Bielefeld
 - Bochum
-	- Mobilitätskonzept der Stadt Bochum *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
+	- Mobilitätskonzept der Stadt Bochum *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; for details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
 	- Leitbild Mobilität 2030 *(Mobility 2030 mission statement)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Leitbild-Mobilitaet-2030
+	- Nahverkehrsplan *(Local Transport Plan)*: https://www.bochum.de/Tiefbauamt/Dienstleistungen-und-Infos/OePNV-in-Bochum 
 - Bonn
+	- Verkehrsentwicklungsplan 2020 +(Transport Development Plan Bonn 2020)*: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/verkehrsplanung_verkehrsentwicklungsplan.php
+	- Mobility transition Bonn: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/mobilitaetswende-in-bonn.php
 - Bremen
+- 
 - Dortmund
 - Dresden
 	- Verkehrsentwicklungsplan 2025plus (Transport Development Plan 2025plus): https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
