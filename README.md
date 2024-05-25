@@ -106,10 +106,24 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### State Transport Plans <a name="state-transport-plans"></a>
 
-- Brandenburg: 
+- Baden-Württemberg
+- Bavaria (Bayern)
+- Berlin
+- Brandenburg
 	- Mobilitätsstrategie 2030 des Landes Brandenburg: https://mil.brandenburg.de/sixcms/media.php/9/Mobilitaetsstrategie-Brandenburg-2030.pdf
-
-
+- Bremen
+- Hamburg
+- Hesse (Hessen)
+	- Hessenstrategie Mobilität 2035: https://www.mobileshessen2030.de/mm/105_55_Hessenstrategie_Mobilitat_2035_online.pdf
+- Lower Saxony (Niedersachsen)
+- Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
+- North Rhine-Westphalia (Nordrhein-Westfalen)
+- Rhineland-Palatinate (Rheinland-Pfalz)
+- Saarland
+- Saxony (Sachsen)
+- Saxony-Anhalt (Sachsen-Anhalt)
+- Schleswig-Holstein
+- Thuringia (Thüringen)
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
