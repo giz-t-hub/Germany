@@ -53,6 +53,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - Mitigation:
 	- 2024 National Inventory Document (NID): https://unfccc.int/documents/637995
+ 	- Climate Action Plan 2050: https://www.bmuv.de/publikation/climate-action-plan-2050-de
+  	- Bundes-Klimaschutzgesetz (KSG) *(Federal Climate Protection Act )*;  https://www.gesetze-im-internet.de/ksg/BJNR251310019.html
     
 - Adaptation
 	- Deutsche Anpassungsstrategie an den Klimawandel *(German Strategy for Adaptation to Climate Change)*: https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Klimaanpassung/das_gesamt_bf.pdf
@@ -65,7 +67,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Urban and regional development <a name="urban"></a> 
 
-- 
+- Die Neue Leipzig-Charta: https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/SharedDocs/Publikationen/DE/Publikationen/die_neue_leipzig_charta.pdf?__blob=publicationFile&v=7
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
