@@ -40,6 +40,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 	- Masterplan Schienengüterverkehr *(Masterplan Rail freight transport)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/E/masterplan-schienengueterverkehr.pdf?__blob=publicationFile
  
 - Roads:
+	- Verkehrssicherheitsprogramm der Bundesregierung 2021-2030  *(Federal Government's Road Safety Programme 2021-2030)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/broschuere-verkehrssicherheitsprogramm-2021-bis-2030.pdf?__blob=publicationFile
 - Cycling:
 	- Nationaler Radverkehrsplan 3.0 *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
     
@@ -97,6 +98,13 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### Gender and Equality <a name="gender"></a>
 
 -
+
+### State Transport Plans <a name="state-transport-plans"></a>
+
+- Brandenburg: 
+	- Mobilitätsstrategie 2030 des Landes Brandenburg: https://mil.brandenburg.de/sixcms/media.php/9/Mobilitaetsstrategie-Brandenburg-2030.pdf
+
+
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
