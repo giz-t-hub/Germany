@@ -148,7 +148,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Studies and research papers <a name="studies-research"></a> 
 
--
+- Resources by Federal Environmental Agency:
+	- https://www.umweltbundesamt.de/themen/verkehr
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
