@@ -111,7 +111,9 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### State Transport Plans <a name="state-transport-plans"></a>
 
 - Baden-Württemberg
-	- ÖPNV-Strategie 2030 *(Public transport strategy 2030)*: https://vm.baden-wuerttemberg.de/de/service/publikation/did/oepnv-strategie-2030-broschuere
+	- Eckpunkte der Landesregierung zum Landeskonzept Mobilität und Klima (LMK) *(Key points of the state government on  State concept for mobility and climate (LMK))*: 
+ https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/PDF/221111_Eckpunktepapier_Landeskonzept_Mobilit%C3%A4t_und_Klima__barrierefrei__01.pdf
+  	- ÖPNV-Strategie 2030 *(Public transport strategy 2030)*: https://vm.baden-wuerttemberg.de/de/service/publikation/did/oepnv-strategie-2030-broschuere
 	- Verkehrssicherheitskonzept Baden-Württemberg: https://vm.baden-wuerttemberg.de/de/service/publikation/did/verkehrssicherheitskonzept-baden-wuerttemberg
 	- Digitale Mobilität: https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/Broschueren_Publikationen/200625_MfV_Bro_Digitale_Mobilita%CC%88t_A4_56S_WEB.pdf
 - Bavaria (Bayern)
@@ -186,6 +188,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Mobilität in Städten (SRV) *(MOBILITY IN CITIES – SRV)*: https://tu-dresden.de/bu/verkehr/ivs/srv
 - Mobilität in Deutschland (MiD) *(Mobility in Germany)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/mobilitaet-in-deutschland.html
 - Mobilitätserhebungen des BMDV und seiner nachgeordneten Behörden im Überblick *(Mobility surveys of the BMDV and its subordinate authorities at a glance)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/mobilitaetserhebungen-im-ueberblick.html
+- MobiData BW: Mobilitätsdaten für alle: https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/digitale-mobilitaet/mobidata-bw
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
 
