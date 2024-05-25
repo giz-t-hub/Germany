@@ -42,6 +42,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     
 - Inland waterways, ports:
 - Aviation:
+- Logistics:
+	- Aktionsplan Güterverkehr und Logistik - nachhaltig und efzient in die Zukunft *(Action Plan 
+Freight transport and logistics - Sustainable and efficient into the future)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/aktionsplan-gueterverkehr-und-logistik.pdf?__blob=publicationFile
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -71,7 +74,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Digitalisation <a name="digitalisation"></a>
 
--
+- Digitalstrategie - Gemeinsam digitale Werte schöpfen  *(Digital strategy - Creating digital value together)*: https://digitalstrategie-deutschland.de/ ; https://digitalstrategie-deutschland.de/static/67803f22e4a62d19e9cf193c06999bcf/220830_Digitalstrategie_fin-barrierefrei.pdf
 
 ### Gender and Equality <a name="gender"></a>
 
