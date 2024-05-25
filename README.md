@@ -53,7 +53,7 @@ For the future of Germany as a maritime business location)*: https://www.bmwk.de
 - Electric mobility:
 	- Elektromobilität in Deutschland *(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html; EN: https://www.bmwk.de/Redaktion/EN/Dossier/electric-mobility.html
 	- Masterplan Ladeinfrastruktur II *(Master plan charging infrastructure)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/G/masterplan-ladeinfrastruktur-2.pdf?__blob=publicationFile
-	- Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge https://www.gesetze-im-internet.de/emog/index.html
+	- Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge *(Act on the Preferential Use of Electrically Powered Vehicles)*: https://www.gesetze-im-internet.de/emog/index.html
 
 - Logistics:
 	- Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft *(Action Plan 
@@ -63,7 +63,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - Mitigation:
 	- 2024 National Inventory Document (NID): https://unfccc.int/documents/637995
- 	- Climate Action Plan 2050: https://www.bmuv.de/publikation/climate-action-plan-2050-de
+ 	- Klimaschutzplan 2050: https://www.bmwk.de/Redaktion/DE/Publikationen/Industrie/klimaschutzplan-2050.html ; EN: Climate Action Plan 2050: https://www.bmuv.de/publikation/climate-action-plan-2050-de
+  	- Klimaschutzprogramm 2023 der Bundesregierung: https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/20231004-klimaschutzprogramm-der-bundesregierung.pdf?__blob=publicationFile&v=10;   EN: Climate Action Programme of the German Federal Government: https://www.bmwk.de/Redaktion/EN/Downloads/C/climate-action-programme-2023.pdf?__blob=publicationFile&v=2
   	- Bundes-Klimaschutzgesetz (KSG) *(Federal Climate Protection Act )*;  https://www.gesetze-im-internet.de/ksg/BJNR251310019.html
     
 - Adaptation
