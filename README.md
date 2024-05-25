@@ -111,6 +111,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### State Transport Plans <a name="state-transport-plans"></a>
 
 - Baden-Württemberg
+	- ÖPNV-Strategie 2030 *(Public transport strategy 2030)*: https://vm.baden-wuerttemberg.de/de/service/publikation/did/oepnv-strategie-2030-broschuere
 - Bavaria (Bayern)
 - Berlin
 - Brandenburg
