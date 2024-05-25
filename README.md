@@ -158,7 +158,9 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Data <a name="data"></a>
 
+- Mobilität in Städten (SRV) *(MOBILITY IN CITIES – SRV)*: https://tu-dresden.de/bu/verkehr/ivs/srv
 - Mobilität in Deutschland (MiD) *(Mobility in Germany)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/mobilitaet-in-deutschland.html
+- Mobilitätserhebungen des BMDV und seiner nachgeordneten Behörden im Überblick *(Mobility surveys of the BMDV and its subordinate authorities at a glance)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/mobilitaetserhebungen-im-ueberblick.html
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
 
