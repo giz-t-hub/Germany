@@ -118,12 +118,14 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- Digitale Mobilität: https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/Broschueren_Publikationen/200625_MfV_Bro_Digitale_Mobilita%CC%88t_A4_56S_WEB.pdf
 - Bavaria (Bayern)
 	- ÖPNV-Strategie 2030 für den Freistaat Bayern: https://www.stmb.bayern.de/assets/stmi/med/aktuell/stmb_o%CC%88pnv-strategie_bayern_endbericht-2022-12-07-rz-bf.pdf
+ 	- Güterverkehrskonzept Bayern - überall, einfach, modern und digital: https://www.stmb.bayern.de/assets/stmi/vum/handlungsfelder/240126_gu%CC%88terverkehrskonzept-bayern.pdf
   	- Overview: https://www.stmb.bayern.de/vum/handlungsfelder/index.php
-- Berlin
+  	- Moderne Mobilität in Bayern - Der Werkzeugkasten Mobilität trägt Wissen und Erfahrungen aus ganz Bayern zusammen: Von Kommunen für Kommunen.https://www.wir-bewegen.bayern.de/
+- Berlin (see chapter "Local Transport Plans)
 - Brandenburg
 	- Mobilitätsstrategie 2030 des Landes Brandenburg: https://mil.brandenburg.de/sixcms/media.php/9/Mobilitaetsstrategie-Brandenburg-2030.pdf
-- Bremen
-- Hamburg
+- Bremen (see chapter "Local Transport Plans)
+- Hamburg (see chapter "Local Transport Plans)
 - Hesse (Hessen)
 	- Hessenstrategie Mobilität 2035: https://www.mobileshessen2030.de/mm/105_55_Hessenstrategie_Mobilitat_2035_online.pdf
 - Lower Saxony (Niedersachsen)
