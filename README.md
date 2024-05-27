@@ -136,7 +136,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- Overview: https://wirtschaft.hessen.de/verkehr 
 - Lower Saxony (Niedersachsen)
 - Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
-	- <b> ÖPNV-Zukunftsvision für Mecklenburg-Vorpommern </b> *(Future Vision of Public Transport for Mecklenburg-Western Pomerania)*: https://www.regierung-mv.de/serviceassistent/download?id=1647052
+	- <b>  </b> *(Future Vision of Public Transport for Mecklenburg-Western Pomerania)*: https://www.regierung-mv.de/serviceassistent/download?id=1647052
 - North Rhine-Westphalia (Nordrhein-Westfalen)
 - Rhineland-Palatinate (Rheinland-Pfalz)
 - Saarland
@@ -189,6 +189,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - Resources by Federal Environmental Agency:
 	- https://www.umweltbundesamt.de/themen/verkehr
+
+- <b>Mobilitäts- und Angebotsstrategien im ländlichen Raum</b> *(Mobility and Service Strategies in Rural Areas)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/mobilitaets-und-angebotsstrategien-in-laendlichen-raeumen-neu.pdf?__blob=publicationFile 
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
