@@ -142,9 +142,19 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
   	- <b>ÖPNV-Zukunftsvision für Mecklenburg-Vorpommern</b> *(Future Vision of Public Transport for Mecklenburg-Western Pomerania)*: https://www.regierung-mv.de/serviceassistent/download?id=1647052
 	- Overview: https://www.regierung-mv.de/Landesregierung/wm/Infrastruktur/
 - North Rhine-Westphalia (Nordrhein-Westfalen)
+	- <b>Das Verkehrssicherheitsprogramm Nordrhein-Westfalen 2030</b> *(The Road Safety Program North Rhine-Westphalia 2030)*: https://broschuerenservice.nrw.de/munv/shop/Das_Verkehrssicherheitsprogramm_Nordrhein-Westfalen_2030/18
+  	- <b> Zukunftsnetz Mobilität </b> *(municipal support network)*: https://www.zukunftsnetz-mobilitaet.nrw.de/
+  	- Overview: https://www.umwelt.nrw.de/themen/verkehr
 - Rhineland-Palatinate (Rheinland-Pfalz)
+	- Overview: https://mwvlw.rlp.de/themen/verkehr
 - Saarland
+	- <b>Verkehrsentwicklungsplan ÖPNV (VEP ÖPNV) Saarland</b> *(Transport Development Plan Public Transport (VEP ÖPNV) Saarland)*: https://www.saarland.de/SharedDocs/Downloads/DE/mukmav/verkehr/%C3%96PNV/dld_vep_oepnv_bericht.pdf?__blob=publicationFile&v=4
+ 	- <b>Radverkehrsplan für das Saarland</b> *(Cycling Plan for Saarland)*: https://www.saarland.de/SharedDocs/Downloads/DE/mukmav/verkehr/Stra%C3%9Fenbaubehoerde/Radverkehrsplan_LfS.pdf?__blob=publicationFile&v=3
+  	- <b>Richtlinien zur nachhaltigen Mobilität (RL-NMOB)</b>, Förderpakete *(Guidelines for Sustainable Mobility (RL-NMOB), funding packages)*: https://www.saarland.de/mukmav/DE/portale/mobilitaet/informationen/mobilitaetsfoerderung/nmob
+  	- <b>Verkehrssicherheitsprogramm für das Saarland (VSP SL) Vision Zero</b> *(Road Safety Program for Saarland -Vision Zero)*: https://www.saarland.de/SharedDocs/Downloads/DE/mukmav/verkehr/verkehrssicherheit/verkehrssicherheitsprogramm/dl_verkehssicherheitsprogramm_sl.pdf?__blob=publicationFile&v=6
 - Saxony (Sachsen)
+	- <b>Mobilität für Sachsen - Landesverkehrsplan 2030</b> *(Mobility for Saxony - State Transport Plan 2030)*: https://publikationen.sachsen.de/bdb/artikel/33981
+	- Overview: https://www.mobilitaet.sachsen.de/index.html
 - Saxony-Anhalt (Sachsen-Anhalt)
 - Schleswig-Holstein
 - Thuringia (Thüringen)
@@ -158,6 +168,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
    		- Nahverkehrsplan (public transport plan): https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
        - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237 
 - Bielefeld
+	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
 - Bochum
 	- Mobilitätskonzept der Stadt Bochum *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; for details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
 	- Leitbild Mobilität 2030 *(Mobility 2030 mission statement)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Leitbild-Mobilitaet-2030
