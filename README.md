@@ -152,10 +152,14 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	- <b>Radverkehrsplan für das Saarland</b> *(Cycling Plan for Saarland)*: https://www.saarland.de/SharedDocs/Downloads/DE/mukmav/verkehr/Stra%C3%9Fenbaubehoerde/Radverkehrsplan_LfS.pdf?__blob=publicationFile&v=3
   	- <b>Richtlinien zur nachhaltigen Mobilität (RL-NMOB)</b>, Förderpakete *(Guidelines for Sustainable Mobility (RL-NMOB), funding packages)*: https://www.saarland.de/mukmav/DE/portale/mobilitaet/informationen/mobilitaetsfoerderung/nmob
   	- <b>Verkehrssicherheitsprogramm für das Saarland (VSP SL) Vision Zero</b> *(Road Safety Program for Saarland -Vision Zero)*: https://www.saarland.de/SharedDocs/Downloads/DE/mukmav/verkehr/verkehrssicherheit/verkehrssicherheitsprogramm/dl_verkehssicherheitsprogramm_sl.pdf?__blob=publicationFile&v=6
+  	- Overview: https://www.saarland.de/mukmav/DE/portale/mobilitaet/home
 - Saxony (Sachsen)
 	- <b>Mobilität für Sachsen - Landesverkehrsplan 2030</b> *(Mobility for Saxony - State Transport Plan 2030)*: https://publikationen.sachsen.de/bdb/artikel/33981
 	- Overview: https://www.mobilitaet.sachsen.de/index.html
 - Saxony-Anhalt (Sachsen-Anhalt)
+	- <b>LRVP 2030 - Landesradverkehrsplan für Sachsen-Anhalt</b> *(LRVP 2030 - State Bicycle Traffic Plan for Saxony-Anhalt)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Infrastruktur/Radverkehr/LRVP-2030/LRVP_2030_02-2021.pdf
+  	- <b>IVS-Rahmenplan Sachsen-Anhalt - Rahmenplan zur Einführung und Nutzung Intelligenter Verkehrssysteme im Straßenverkehr und öffentlichen Personenverkehr in Sachsen-Anhalt</b> *(IVS Framework Plan Saxony-Anhalt - Framework Plan for the Introduction and Use of Intelligent Transport Systems in Road Traffic and Public Transport in Saxony-Anhalt)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Ministerium/Publikationen/IVS-Rahmenplan_Sachsen-Anhalt.pdf
+  	- <b>Verkehrssicherheitsprogramm des Landes Sachsen-Anhalt</b> *(Traffic Safety Program of the State of Saxony-Anhalt)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Ministerium/Publikationen/Verkehrssicherheitsprogramm_des_Landes_Sachsen-Anhalt_2021.pdf
 - Schleswig-Holstein
 - Thuringia (Thüringen)
 
