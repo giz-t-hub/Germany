@@ -135,7 +135,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- Radverkehr: Musterlösungen und Qualitätsstandards *(Cycling: Model solutions and quality standards)*: https://www.nahmobil-hessen.de/unterstuetzung/planen-und-bauen/schneller-radfahren/musterloesungen-und-qualitaetsstandards/
 	- Overview: https://wirtschaft.hessen.de/verkehr 
 - Lower Saxony (Niedersachsen)
-	- <b>Mobilität braucht Perspektiven - Mobilitätskonzept Niedersachsen</b> (Mobility Needs Perspectives - Mobility Concept Lower Saxony): www.mw.niedersachsen.de%2Fdownload%2F107899%2FMobilitaetskonzept_zum_Download_.pdf&usg=AOvVaw1JpPAyFvtnvRxux6yc2Qd1&opi=89978449
+	- <b>Mobilität braucht Perspektiven - Mobilitätskonzept Niedersachsen</b> (Mobility Needs Perspectives - Mobility Concept Lower Saxony): www.mw.niedersachsen.de%2Fdownload%2F107899%2FMobilitaetskonzept_zum_Download_.pdf
   	- <b>Radverkehr neu denken - Fahrradmobilitätskonzept Niedersachsen</b> (Rethinking Cycling - Bicycle Mobility Concept Lower Saxony):  https://www.mw.niedersachsen.de/download/166876/Fahrradmobilitaetskonzept_2021.pdf
 - Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
 	- <b>Integrierter Landesverkehrsplan Mecklenburg-Vorpommern (ILVP M-V)</b> *(Integrated State Transport Plan Mecklenburg-Western Pomerania (ILVP M-V))*: https://www.regierung-mv.de/serviceassistent/download?id=1606310
