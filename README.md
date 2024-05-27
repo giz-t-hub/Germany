@@ -157,10 +157,13 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Mobilität für Sachsen - Landesverkehrsplan 2030</b> *(Mobility for Saxony - State Transport Plan 2030)*: https://publikationen.sachsen.de/bdb/artikel/33981
 	- Overview: https://www.mobilitaet.sachsen.de/index.html
 - Saxony-Anhalt (Sachsen-Anhalt)
-	- <b>LRVP 2030 - Landesradverkehrsplan für Sachsen-Anhalt</b> *(LRVP 2030 - State Bicycle Traffic Plan for Saxony-Anhalt)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Infrastruktur/Radverkehr/LRVP-2030/LRVP_2030_02-2021.pdf
+	- <b>ÖPNV-Plan 2020 – 2030 - Plan des öffentlichen Personennahverkehrs</b> *(ÖPNV Plan 2020 – 2030 - Public Transport Plan)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Ministerium/Publikationen/Plan_fuer_den_oeffentlichen_Personennahverkehr_des_Landes_Sachsen-Anhalt_2020-2030.pdf
+  	- <b>LRVP 2030 - Landesradverkehrsplan für Sachsen-Anhalt</b> *(LRVP 2030 - State Cycling Plan for Saxony-Anhalt)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Infrastruktur/Radverkehr/LRVP-2030/LRVP_2030_02-2021.pdf
   	- <b>IVS-Rahmenplan Sachsen-Anhalt - Rahmenplan zur Einführung und Nutzung Intelligenter Verkehrssysteme im Straßenverkehr und öffentlichen Personenverkehr in Sachsen-Anhalt</b> *(IVS Framework Plan Saxony-Anhalt - Framework Plan for the Introduction and Use of Intelligent Transport Systems in Road Traffic and Public Transport in Saxony-Anhalt)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Ministerium/Publikationen/IVS-Rahmenplan_Sachsen-Anhalt.pdf
   	- <b>Verkehrssicherheitsprogramm des Landes Sachsen-Anhalt</b> *(Traffic Safety Program of the State of Saxony-Anhalt)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Ministerium/Publikationen/Verkehrssicherheitsprogramm_des_Landes_Sachsen-Anhalt_2021.pdf
+  	- Overview: https://mid.sachsen-anhalt.de/infrastruktur/verkehr and https://www.nasa.de/verkehr-planung/oepnv-plan
 - Schleswig-Holstein
+- 
 - Thuringia (Thüringen)
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
