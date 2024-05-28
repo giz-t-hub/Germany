@@ -187,7 +187,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Bielefeld
 	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
 - Bochum
-	-<b> Mobilitätskonzept der Stadt Bochum</b> *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; for details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
+	- <b> Mobilitätskonzept der Stadt Bochum</b> *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; for details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
 	- <b>Leitbild Mobilität 2030 </b>*(Mobility 2030 mission statement)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Leitbild-Mobilitaet-2030
 	- <b>Nahverkehrsplan</b> *(Local Transport Plan)*: https://www.bochum.de/Tiefbauamt/Dienstleistungen-und-Infos/OePNV-in-Bochum 
 - Bonn
