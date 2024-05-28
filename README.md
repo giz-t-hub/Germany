@@ -140,10 +140,12 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
 	- <b>Integrierter Landesverkehrsplan Mecklenburg-Vorpommern (ILVP M-V)</b> *(Integrated State Transport Plan Mecklenburg-Western Pomerania (ILVP M-V))*: https://www.regierung-mv.de/serviceassistent/download?id=1606310
   	- <b>ÖPNV-Zukunftsvision für Mecklenburg-Vorpommern</b> *(Future Vision of Public Transport for Mecklenburg-Western Pomerania)*: https://www.regierung-mv.de/serviceassistent/download?id=1647052
+  	- <b>Das Curriculum Mobilität - Ein Bausteinkonzept für den fächerverbindenden Unterricht in allen Schulen in Niedersachsen</b> *(The Mobility Curriculum - A Modular Concept for Interdisciplinary Teaching in All Schools in Lower Saxony)*: https://bildungsportal-niedersachsen.de/fileadmin/2_Portale/Mobilitaet/Dateien/CM/Curriculum_Mobilitaet_Langfassung.pdf
 	- Overview: https://www.regierung-mv.de/Landesregierung/wm/Infrastruktur/
 - North Rhine-Westphalia (Nordrhein-Westfalen)
 	- <b>Das Verkehrssicherheitsprogramm Nordrhein-Westfalen 2030</b> *(The Road Safety Program North Rhine-Westphalia 2030)*: https://broschuerenservice.nrw.de/munv/shop/Das_Verkehrssicherheitsprogramm_Nordrhein-Westfalen_2030/18
-  	- <b> Zukunftsnetz Mobilität </b> *(municipal support network)*: https://www.zukunftsnetz-mobilitaet.nrw.de/
+  	- <b>Zukunftsnetz Mobilität </b> *(municipal support network)*: https://www.zukunftsnetz-mobilitaet.nrw.de/
+  	- <b>Aktionsplan des Landes Nordrhein-Westfalen zum Fahrrad- und Nahmobilitätsgesetz (FaNaG)</b> *(Action Plan of the State of North Rhine-Westphalia for the Bicycle and Local Mobility Act (FaNaG))*: https://www.agfs-nrw.de/fileadmin/Fachthemen/Nahmobilitaet/aktionsplan-fahrrad-und-nahmobilitaetsgesetz.pdf
   	- Overview: https://www.umwelt.nrw.de/themen/verkehr
 - Rhineland-Palatinate (Rheinland-Pfalz)
 	- Overview: https://mwvlw.rlp.de/themen/verkehr
@@ -165,7 +167,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Schleswig-Holstein
 	- <b>Landesweiter Nahverkehrsplan bis 2027</b> *(Statewide Public Transport Plan until 2027)*: https://unternehmen.nah.sh/assets/2021/Landesweiter-Nahverkehrsplan-2022-bis-2027_final.pdf
  	- <b>Mobilität der Zukunft in Schleswig-Holstein</b> *(Mobility of the Future in Schleswig-Holstein)*: https://www.schleswig-holstein.de/DE/fachinhalte/E/e_mobilitaet/Downloads/mobilitaetsgutachten.pdf?__blob=publicationFile&v=1
-  	- <b>„Ab aufs Rad im echten Norden” - Radstrategie Schleswig-Holstein 2030</b> *(“Onto the Bike in the REal North” - Bicycle Strategy Schleswig-Holstein 2030)*: https://www.schleswig-holstein.de/DE/fachinhalte/R/radverkehr/Downloads/radstrategie_Broschuere.pdf?__blob=publicationFile&v=2
+  	- <b>„Ab aufs Rad im echten Norden” - Radstrategie Schleswig-Holstein 2030</b> *(“Onto the Bike in the Real North” - Bicycle Strategy Schleswig-Holstein 2030)*: https://www.schleswig-holstein.de/DE/fachinhalte/R/radverkehr/Downloads/radstrategie_Broschuere.pdf?__blob=publicationFile&v=2
   	- <b>Hafen- und Logistikkonzept Schleswig-Holstein</b> *(Port and Logistics Concept Schleswig-Holstein)*: https://www.schleswig-holstein.de/DE/fachinhalte/L/logistik/Downloads/hafen_logistikkonzept.pdf?__blob=publicationFile&v=1
 - Thuringia (Thüringen)
 
