@@ -280,6 +280,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Data <a name="data"></a>
 
+- Verkehr in Zahlen 2022/2023 (Excel-Version) *(Transport in figures)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/verkehr-in-zahlen-2022-2023-xls.html
 - Mobilität in Städten (SRV) *(MOBILITY IN CITIES – SRV)*: https://tu-dresden.de/bu/verkehr/ivs/srv
 - Mobilität in Deutschland (MiD) *(Mobility in Germany)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/mobilitaet-in-deutschland.html
 - Mobilitätserhebungen des BMDV und seiner nachgeordneten Behörden im Überblick *(Mobility surveys of the BMDV and its subordinate authorities at a glance)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/mobilitaetserhebungen-im-ueberblick.html
