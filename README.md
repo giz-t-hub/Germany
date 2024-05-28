@@ -67,8 +67,6 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Verkehrssicherheitsprogramm der Bundesregierung 2021-2030</b>  *(Federal Government's Road Safety Programme 2021-2030)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/broschuere-verkehrssicherheitsprogramm-2021-bis-2030.pdf?__blob=publicationFile
 
 
-
-
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
@@ -101,7 +99,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Digitalisation <a name="digitalisation"></a>
 
--<b> Digitalstrategie - Gemeinsam digitale Werte schöpfen</b>  *(Digital strategy - Creating digital value together)*: https://digitalstrategie-deutschland.de/ ; https://digitalstrategie-deutschland.de/static/67803f22e4a62d19e9cf193c06999bcf/220830_Digitalstrategie_fin-barrierefrei.pdf
+- <b> Digitalstrategie - Gemeinsam digitale Werte schöpfen</b>  *(Digital strategy - Creating digital value together)*: https://digitalstrategie-deutschland.de/ ; https://digitalstrategie-deutschland.de/static/67803f22e4a62d19e9cf193c06999bcf/220830_Digitalstrategie_fin-barrierefrei.pdf
 
 ### Gender and Equality <a name="gender"></a>
 
@@ -218,8 +216,13 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>3. Nahverkehrsplan Stadt Duisburg</b> *(3rd Local Transport Plan City of Duisburg)*: https://www.duisburg.de/microsites/pbv/verkehr/nahverkehrskonzepte.php.media/83128/3._Nahverkehrsplan_Stadt_Duisburg_Gesamtdokument.pdf
   	- <b>Lärmaktionsplan der Stadt Duisburg</b> *(Noise Action Plan of the City of Duisburg)*: https://sessionnet.krz.de/duisburg/bi/getfile.asp?id=1651994&type=do
 - Düsseldorf
+	- <b>Nahverkehrsplan 2017 der Landeshauptstadt Düsseldorf</b> *(Local Public Transport Plan 2017 of the State Capital Düsseldorf)*: https://www.duesseldorf.de/fileadmin/Amt66/verkehrsmanagement/pdf/NVP_Endfassung_2017.pdf
 - Essen
+	- <b>Nahverkehrsplan der Stadt Essen</b> *(Local Transport Plan of the City of Essen)*: https://media.essen.de/media/wwwessende/aemter/61/dokumente_7/verkehrsthemen/nahverkehrsplan/nvp_essen.pdf
 - Frankfurt am Main
+	- <b>Masterplan Mobilität</b> *(Mobility Master Plan)*: https://frankfurt.de/-/media/frankfurtde/frankfurt-themen/verkehr/verkehrsplanung/pdf/masterplan-mobilitaet/bericht_masterplan.ashx
+ 	- <b>Nahverkehrsplan der Stadt Frankfurt am Main 2025+</b> *(Local Transport Plan of the City of Frankfurt am Main 2025+)*: https://www.traffiq.de/fileadmin/user_upload/Nahverkehrsplan_2025/Nahverkehrsplan_der_Stadt_Frankfurt_am_Main_2025_.pdf
+  	- <b>Logistikkonzept Frankfurt am Main</b> *(Logistics Concept Frankfurt am Main)*: https://frankfurt.de/-/media/frankfurtde/frankfurt-themen/verkehr/verkehrsplanung/pdf/logistikkonzept/abschlussbericht.ashx
 - Hamburg
 - Hannover
 - Kaiserslautern
