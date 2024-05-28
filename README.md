@@ -196,7 +196,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Verkehrsentwicklungsplan 2020 </b>*(Transport Development Plan Bonn 2020)*: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/verkehrsplanung_verkehrsentwicklungsplan.php
 	- Mobility transition Bonn: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/mobilitaetswende-in-bonn.php
 - Bremen
-	- <b> Verkehrsentwicklungsplan Bremen 2025 </b>: https://bau.bremen.de/sixcms/media.php/13/VEP_Bremen_2025_Leseversion_144dpi.pdf: EN: <b> SUMP Bremen  </b>: https://bau.bremen.de/sixcms/media.php/13/SUMP_Bremen2025_web.pdf
+	- <b> Verkehrsentwicklungsplan Bremen 2025 </b>: https://bau.bremen.de/sixcms/media.php/13/VEP_Bremen_2025_Leseversion_144dpi.pdf;  EN: SUMP Bremen: https://bau.bremen.de/sixcms/media.php/13/SUMP_Bremen2025_web.pdf
 	- <b>Nahverkehrsplan für den Schienenpersonennahverkehr (SPNV) im Land Bremen</b> *(Local Transport Plan for Rail Passenger Transport (SPNV) in the State of Bremen)*: https://bau.bremen.de/sixcms/media.php/13/SPNV_Plan_2015.pdf
  	- <b> Masterplan Green City Bremen </b>: https://bau.bremen.de/sixcms/media.php/13/20180813%20Masterplan%20Green%20City%20Bremen%20V1.1%20-%20Leseversion.39677.pdf
 - Chemnitz
