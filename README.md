@@ -209,9 +209,9 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Nahverkehrsplan Dortmund 2014</b> *(Local Transport Plan Dortmund 2014)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/tiefbauamt/downloads/nvp-do-2014-inkl-fortschreibung-vom-08-12-2016.pdf
   - https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/tiefbauamt/downloads/nvp-do-2014-inkl-fortschreibung-vom-08-12-2016.pdf
 - Dresden
-	- </b>Verkehrsentwicklungsplan 2025plus</b> *(Transport Development Plan 2025plus)*: https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
+	- <b>Verkehrsentwicklungsplan 2025plus</b> *(Transport Development Plan 2025plus)*: https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
  	- <b>Green City Plan</b>: https://www.dresden.de/media/pdf/stadtplanung/verkehr/GCP_Dresden.pdf
- 	- </b>Fußverkehrsstrategie der Landeshauptstadt Dresden</b> *(Pedestrian Strategy)*: https://www.dresden.de/media/pdf/stadtplanung/verkehr/V1338_21_a_Anlage_A_Fussverkehrsstrategie_klein.pdf
+ 	- <b>Fußverkehrsstrategie der Landeshauptstadt Dresden</b> *(Pedestrian Strategy)*: https://www.dresden.de/media/pdf/stadtplanung/verkehr/V1338_21_a_Anlage_A_Fussverkehrsstrategie_klein.pdf
 - Duisburg
 	- <b>3. Nahverkehrsplan Stadt Duisburg</b> *(3rd Local Transport Plan City of Duisburg)*: https://www.duisburg.de/microsites/pbv/verkehr/nahverkehrskonzepte.php.media/83128/3._Nahverkehrsplan_Stadt_Duisburg_Gesamtdokument.pdf
   	- <b>Lärmaktionsplan der Stadt Duisburg</b> *(Noise Action Plan of the City of Duisburg)*: https://sessionnet.krz.de/duisburg/bi/getfile.asp?id=1651994&type=do
@@ -224,6 +224,10 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	- <b>Nahverkehrsplan der Stadt Frankfurt am Main 2025+</b> *(Local Transport Plan of the City of Frankfurt am Main 2025+)*: https://www.traffiq.de/fileadmin/user_upload/Nahverkehrsplan_2025/Nahverkehrsplan_der_Stadt_Frankfurt_am_Main_2025_.pdf
   	- <b>Logistikkonzept Frankfurt am Main</b> *(Logistics Concept Frankfurt am Main)*: https://frankfurt.de/-/media/frankfurtde/frankfurt-themen/verkehr/verkehrsplanung/pdf/logistikkonzept/abschlussbericht.ashx
 - Hamburg
+	- <b>Strategie Mobilitätswende</b> *(Strategy for Mobility Transition)*: https://www.hamburg.de/contentblob/17833704/b1a960f846cdb6ea869fb5e69ed07151/data/senatsdrucksache.pdf
+ 	- <b>Strategie Digitale Mobilität</b> *(Strategy for Digital Mobility)*: https://www.hamburg.de/contentblob/18615768/ab8efec496fff40b17f7cb6188fa482f/data/download-strategie-digitale-mobilitaet.pdf
+  	- <b>Hamburgs neue Strategie - Bündnis für den Rad- und Fußverkehr</b> *(Hamburg's New Strategy - Alliance for Bicycle and Pedestrian Traffic)*: https://www.hamburg.de/contentblob/16799738/a9645eb5500fe30ab9cd1fda3c217049/data/2022-12-29-bvm-buendnis-download-1).pdf
+  	- Mobility data: https://geoportal-hamburg.de/verkehrsportal/
 - Hannover
 - Kaiserslautern
 	- <b>Mobilitätsplan Klima+ 2030 - Klimaschutz Teilkonzept Mobilität Kaiserslautern</b> *(Mobility Plan Climate+ 2030 - Climate Protection Subconcept Mobility Kaiserslautern)*: https://www.kaiserslautern.de/mb/themen/verkehr/mobilitaetsplan2030/endbericht/2018-08-16_kl_mobilitaetsplan-klima+2030_bericht.pdf
