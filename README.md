@@ -287,6 +287,11 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
 
+### Travel guides <a name="travel_guides"></a>
+
+- Leipzig: https://transformative-mobility.org/wp-content/uploads/2023/04/TUMI-Friends_TravelGuide_Leipzig.pdf  
+- Berlin: https://transformative-mobility.org/multimedia/discover-berlin-by-sustainable-transport/
+- Bonn: https://transformative-mobility.org/multimedia/discover-bonn-by-sustainable-transport-2nd-edition/ 
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
 
