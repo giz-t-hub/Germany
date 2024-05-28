@@ -229,12 +229,16 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
   	- <b>Hamburgs neue Strategie - Bündnis für den Rad- und Fußverkehr</b> *(Hamburg's New Strategy - Alliance for Bicycle and Pedestrian Traffic)*: https://www.hamburg.de/contentblob/16799738/a9645eb5500fe30ab9cd1fda3c217049/data/2022-12-29-bvm-buendnis-download-1).pdf
   	- Mobility data: https://geoportal-hamburg.de/verkehrsportal/
 - Hannover
+	- <b>Verkehrsentwicklungsplan VEP 2035+ „Aktionsprogramm Verkehrswende“</b> *(Tansport Development Plan VEP 2035+ “Action Program Mobility Transition”)*: https://www.hannover.de/content/download/898199/file/VEP%202035+%20Finale%20Langfassung.pdf
+ 	- <b>Nahverkehrsplan 2021</b> *(Local Transport Plan 2021)*: https://www.hannover.de/content/download/893956/file/Nahverkehrsplan%202021_Internet_0622.pdf
 - Kaiserslautern
 	- <b>Mobilitätsplan Klima+ 2030 - Klimaschutz Teilkonzept Mobilität Kaiserslautern</b> *(Mobility Plan Climate+ 2030 - Climate Protection Subconcept Mobility Kaiserslautern)*: https://www.kaiserslautern.de/mb/themen/verkehr/mobilitaetsplan2030/endbericht/2018-08-16_kl_mobilitaetsplan-klima+2030_bericht.pdf
 - Kiel
 	- <b>Verkehrsentwicklungsplan 2008 </b>*(Transport Development Plan 2008)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/verkehrsentwicklungsplan.php); https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_vep/VEP_Langfassung_final.pdf
  	- <b>Konzeptpapier Mobilitätskonzept | ruhender Kfz-Verkehr 2035 </b>*(Concept Paper Mobility Concept | Parking concept 2035)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_dokumente_ruhender_verkehr/kiel_konzept_ruhender_verkehr.pdf
-- Köln
+- Cologne (Köln)
+	- <b>Strategiepapier Köln mobil 2025</b> *(Strategy Paper Cologne Mobile 2025)*: https://www.stadt-koeln.de/mediaasset/content/pdf66/koeln-mobil-2025.pdf
+	- <b>Green City Masterplan der Stadt Köln</b> *(Green City Master Plan of the City of Cologne)*: https://ratsinformation.stadt-koeln.de/getfile.asp?d=674618&type=do
 - Leipzig
 - München
 - Münster
