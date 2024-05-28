@@ -208,6 +208,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Strategie Öffentlicher Raum</b> *(Public Space Strategy)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/strategie_oeffentlicher_raum.pdf
 	- <b>Strategie Ruhender Verkehr</b> *(Parking Strategy)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/strategie_ruhender_verkehr.pdf
  	- <b>Radverkehrsstrategie - Teilkonzept Radverkehr und Verkehrssicherheit</b> *(Cycling Strategy)* - Subconcept Bicycle Traffic and Traffic Safety) https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/221214_do_masterplan-mobilitaet_radverkehrsstrategie.pdf
+	- <b>Nahverkehrsplan Dortmund 2014</b> *(Local Transport Plan Dortmund 2014)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/tiefbauamt/downloads/nvp-do-2014-inkl-fortschreibung-vom-08-12-2016.pdf
+  - https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/tiefbauamt/downloads/nvp-do-2014-inkl-fortschreibung-vom-08-12-2016.pdf
 - Dresden
 	- </b>Verkehrsentwicklungsplan 2025plus</b> *(Transport Development Plan 2025plus)*: https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
  	- <b>Green City Plan</b>: https://www.dresden.de/media/pdf/stadtplanung/verkehr/GCP_Dresden.pdf
