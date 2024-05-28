@@ -196,14 +196,19 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Verkehrsentwicklungsplan 2020 </b>*(Transport Development Plan Bonn 2020)*: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/verkehrsplanung_verkehrsentwicklungsplan.php
 	- Mobility transition Bonn: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/mobilitaetswende-in-bonn.php
 - Bremen
-- 
+	- <b> Verkehrsentwicklungsplan Bremen 2025 </b>: https://bau.bremen.de/sixcms/media.php/13/VEP_Bremen_2025_Leseversion_144dpi.pdf: EN: <b> SUMP Bremen  </b>: https://bau.bremen.de/sixcms/media.php/13/SUMP_Bremen2025_web.pdf
+	- <b>Nahverkehrsplan für den Schienenpersonennahverkehr (SPNV) im Land Bremen</b> *(Local Transport Plan for Rail Passenger Transport (SPNV) in the State of Bremen)*: https://bau.bremen.de/sixcms/media.php/13/SPNV_Plan_2015.pdf
+ 	- <b> Masterplan Green City Bremen </b>: https://bau.bremen.de/sixcms/media.php/13/20180813%20Masterplan%20Green%20City%20Bremen%20V1.1%20-%20Leseversion.39677.pdf
 - Chemnitz
+	- <b>Nahverkehrsplan Teil B-I Stadt Chemnitz als Bestandteil des Nahverkehrsplans des ZVMS für den Nahverkehrsraum Chemnitz/Zwickau 2021-2025</b> *(Local Transport Plan Part B-I City of Chemnitz as part of the Local Transport Plan of the ZVMS for the Chemnitz/Zwickau Local Transport Area 2021-2025)*: https://sessionnet.krz.de/chemnitz/bi/to0050.asp?__ktonr=7069119
 - Dortmund
 - Dresden
 	- </b>Verkehrsentwicklungsplan 2025plus</b> *(Transport Development Plan 2025plus)*: https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
  	- <b>Green City Plan</b>: https://www.dresden.de/media/pdf/stadtplanung/verkehr/GCP_Dresden.pdf
  	- </b>Fußverkehrsstrategie der Landeshauptstadt Dresden</b> *(Pedestrian Strategy)*: https://www.dresden.de/media/pdf/stadtplanung/verkehr/V1338_21_a_Anlage_A_Fussverkehrsstrategie_klein.pdf
 - Duisburg
+	- <b>3. Nahverkehrsplan Stadt Duisburg</b> *(3rd Local Transport Plan City of Duisburg)*: https://www.duisburg.de/microsites/pbv/verkehr/nahverkehrskonzepte.php.media/83128/3._Nahverkehrsplan_Stadt_Duisburg_Gesamtdokument.pdf
+  	- <b>Lärmaktionsplan der Stadt Duisburg</b> *(Noise Action Plan of the City of Duisburg)*: https://sessionnet.krz.de/duisburg/bi/getfile.asp?id=1651994&type=do
 - Düsseldorf
 - Essen
 - Frankfurt am Main
@@ -213,7 +218,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Mobilitätsplan Klima+ 2030 - Klimaschutz Teilkonzept Mobilität Kaiserslautern</b> *(Mobility Plan Climate+ 2030 - Climate Protection Subconcept Mobility Kaiserslautern)*: https://www.kaiserslautern.de/mb/themen/verkehr/mobilitaetsplan2030/endbericht/2018-08-16_kl_mobilitaetsplan-klima+2030_bericht.pdf
 - Kiel
 	- <b>Verkehrsentwicklungsplan 2008 </b>*(Transport Development Plan 2008)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/verkehrsentwicklungsplan.php); https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_vep/VEP_Langfassung_final.pdf
- 	- Konzeptpapier Mobilitätskonzept | ruhender Kfz-Verkehr 2035 *(Concept Paper Mobility Concept | Parking concept 2035)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_dokumente_ruhender_verkehr/kiel_konzept_ruhender_verkehr.pdf
+ 	- <b>Konzeptpapier Mobilitätskonzept | ruhender Kfz-Verkehr 2035 </b>*(Concept Paper Mobility Concept | Parking concept 2035)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_dokumente_ruhender_verkehr/kiel_konzept_ruhender_verkehr.pdf
 - Köln
 - Leipzig
 - München
