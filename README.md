@@ -79,9 +79,9 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Klimaschutz im Verkehr – Strategien, Beratungs- und Vernetzungsaktivitäten</b> *(Climate protection in transport – strategies, advisory and networking activities)*: https://bmdv.bund.de/DE/Themen/Mobilitaet/Klimaschutz-im-Verkehr/Strategien-Beratungs-und-Vernetzungsaktivitaeten/strategien-beratungs-und-vernetzungsaktivitaeten.html
     
 - Adaptation
-	- Deutsche Anpassungsstrategie an den Klimawandel *(German Strategy for Adaptation to Climate Change)*: https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Klimaanpassung/das_gesamt_bf.pdf
-	- Klimawirkungs- und Risikoanalyse für Deutschland 2021 (Kurzfassung) *(Climate Impact and Risk Analysis for Germany 2021 (short version))*: https://www.umweltbundesamt.de/en/publikationen/KWRA-Zusammenfassung
-	- Aktionsplan Anpassung *(Action plan adaptation)*: https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/anpassung-an-den-klimawandel/anpassung-auf-bundesebene-neu/aktionsplan-anpassung
+	- <b>Deutsche Anpassungsstrategie an den Klimawandel</b> *(German Strategy for Adaptation to Climate Change)*: https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Klimaanpassung/das_gesamt_bf.pdf
+	- <b>Klimawirkungs- und Risikoanalyse für Deutschland 2021 (Kurzfassung) </b>*(Climate Impact and Risk Analysis for Germany 2021 (short version))*: https://www.umweltbundesamt.de/en/publikationen/KWRA-Zusammenfassung
+	- <b>Aktionsplan Anpassung</b> *(Action plan adaptation)*: https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/anpassung-an-den-klimawandel/anpassung-auf-bundesebene-neu/aktionsplan-anpassung
    
 
 - Energy policy 
@@ -89,7 +89,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Urban and regional development <a name="urban"></a> 
 
-- Die Neue Leipzig-Charta: https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/SharedDocs/Publikationen/DE/Publikationen/die_neue_leipzig_charta.pdf?__blob=publicationFile&v=7
+- <b>Die Neue Leipzig-Charta</b>: https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/SharedDocs/Publikationen/DE/Publikationen/die_neue_leipzig_charta.pdf?__blob=publicationFile&v=7
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
