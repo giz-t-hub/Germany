@@ -237,9 +237,14 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Verkehrsentwicklungsplan 2008 </b>*(Transport Development Plan 2008)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/verkehrsentwicklungsplan.php); https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_vep/VEP_Langfassung_final.pdf
  	- <b>Konzeptpapier Mobilitätskonzept | ruhender Kfz-Verkehr 2035 </b>*(Concept Paper Mobility Concept | Parking concept 2035)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_dokumente_ruhender_verkehr/kiel_konzept_ruhender_verkehr.pdf
 - Cologne (Köln)
-	- <b>Strategiepapier Köln mobil 2025</b> *(Strategy Paper Cologne Mobile 2025)*: https://www.stadt-koeln.de/mediaasset/content/pdf66/koeln-mobil-2025.pdf
+	- <b>Besser durch Köln – ein Leitbild für den nachhaltigen Mobilitätsplan</b> *(Better through Cologne – A Guiding Principle for the Sustainable Mobility Plan)*: https://ratsinformation.stadt-koeln.de/getfile.asp?id=945390&type=do
+  	- <b>Strategiepapier Köln mobil 2025</b> *(Strategy Paper Cologne Mobile 2025)*: https://www.stadt-koeln.de/mediaasset/content/pdf66/koeln-mobil-2025.pdf
 	- <b>Green City Masterplan der Stadt Köln</b> *(Green City Master Plan of the City of Cologne)*: https://ratsinformation.stadt-koeln.de/getfile.asp?id=674618&type=do
+ 	- <b>Radverkehrskonzept für die Kölner Innenstadt</b> *(Cycling Concept for Downtown Cologne)*: https://www.stadt-koeln.de/mediaasset/content/pdf66/radverkehr/radverkehrskonzept-innenstadt-gutachten.pdf
+	- <b>3. Nahverkehrsplan</b> *(3rd Local Transport Plan)*: https://www.stadt-koeln.de/mediaasset/content/pdf66/dritter-nahverkehrsplan-12-2017.pdf     
 - Leipzig
+	- <b>Mobilitätsstrategie 2030</b> *(Mobility Strategy 2030)*: https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.6_Dez6_Stadtentwicklung_Bau/66_Verkehrs_und_Tiefbauamt/Mobilitaetsstrategie/Mobilitatsstrategie-2030.pdf
+ 	-  
 - München
 - Münster
 - Nürnberg
