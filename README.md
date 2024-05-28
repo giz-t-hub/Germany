@@ -182,27 +182,27 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - Berlin
 	- <b>Stadtentwicklungsplan Mobilität und Verkehr</b> *(Urban Development Plan for Mobility and Transport)*, 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
-	-<b> Berliner Mobilitätsgesetz </b>*(Berlin Mobility Act)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
+		-<b> Berliner Mobilitätsgesetz </b>*(Berlin Mobility Act)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
  		- <b>Radverkehrsplan</b> *(Cycling Plan)*:  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
-   		- <b>Nahverkehrsplan </b>*(public transport plan)+: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
+   		- <b>Nahverkehrsplan </b>*(public transport plan)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
        - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237 
 - Bielefeld
 	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
 - Bochum
-	- Mobilitätskonzept der Stadt Bochum *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; for details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
-	- Leitbild Mobilität 2030 *(Mobility 2030 mission statement)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Leitbild-Mobilitaet-2030
-	- Nahverkehrsplan *(Local Transport Plan)*: https://www.bochum.de/Tiefbauamt/Dienstleistungen-und-Infos/OePNV-in-Bochum 
+	-<b> Mobilitätskonzept der Stadt Bochum</b> *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; for details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
+	- <b>Leitbild Mobilität 2030 *(Mobility 2030 mission statement)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Leitbild-Mobilitaet-2030
+	- <b>Nahverkehrsplan</b> *(Local Transport Plan)*: https://www.bochum.de/Tiefbauamt/Dienstleistungen-und-Infos/OePNV-in-Bochum 
 - Bonn
-	- Verkehrsentwicklungsplan 2020 +(Transport Development Plan Bonn 2020)*: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/verkehrsplanung_verkehrsentwicklungsplan.php
+	- <b>Verkehrsentwicklungsplan 2020 </b>*(Transport Development Plan Bonn 2020)*: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/verkehrsplanung_verkehrsentwicklungsplan.php
 	- Mobility transition Bonn: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/mobilitaetswende-in-bonn.php
 - Bremen
 - 
 - Chemnitz
 - Dortmund
 - Dresden
-	- Verkehrsentwicklungsplan 2025plus (Transport Development Plan 2025plus): https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
- 	- Green City Plan: https://www.dresden.de/media/pdf/stadtplanung/verkehr/GCP_Dresden.pdf
- 	- Fußverkehrsstrategie der Landeshauptstadt Dresden (Pedestrian Strategy): https://www.dresden.de/media/pdf/stadtplanung/verkehr/V1338_21_a_Anlage_A_Fussverkehrsstrategie_klein.pdf
+	- </b>Verkehrsentwicklungsplan 2025plus</b> *(Transport Development Plan 2025plus)*: https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
+ 	- <b>Green City Plan</b>: https://www.dresden.de/media/pdf/stadtplanung/verkehr/GCP_Dresden.pdf
+ 	- </b>Fußverkehrsstrategie der Landeshauptstadt Dresden</b> *(Pedestrian Strategy)*: https://www.dresden.de/media/pdf/stadtplanung/verkehr/V1338_21_a_Anlage_A_Fussverkehrsstrategie_klein.pdf
 - Duisburg
 - Düsseldorf
 - Essen
