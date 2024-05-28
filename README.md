@@ -40,7 +40,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   	- <b>Die Luftfahrtstrategie der Bundesregierung</b> (*The Federal Government's Aviation Strategy)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Technologie/luftfahrtstrategie-der-bundesregierung.html
 
 - Cycling:
-	-<b> Nationaler Radverkehrsplan 3.0</b> *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
+	- <b> Nationaler Radverkehrsplan 3.0</b> *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
     
 - Electric mobility:
 	- <b>Elektromobilität in Deutschland </b>*(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html; EN: https://www.bmwk.de/Redaktion/EN/Dossier/electric-mobility.html
@@ -54,14 +54,14 @@ For the future of Germany as a maritime business location)*: https://www.bmwk.de
 	- <b>Die Nationale Hafenstrategie *(The National Ports Strategy)*</b>: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
 
 - Logistics:
-	-<b> Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft</b> *(Action Plan 
+	- <b> Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft</b> *(Action Plan 
 Freight transport and logistics - Sustainable and efficient into the future)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/aktionsplan-gueterverkehr-und-logistik.pdf?__blob=publicationFile
 
 - Public transport:
 	- <b>Gemeindeverkehrsfinanzierungsgesetz </b>*(Municipal Transport Financing Act)*: https://www.gesetze-im-internet.de/gvfg/GVFG.pdf 
 
 - Railways:
-	-<b> Masterplan Schienengüterverkehr </b>*(Masterplan Rail freight transport)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/E/masterplan-schienengueterverkehr.pdf?__blob=publicationFile
+	- <b> Masterplan Schienengüterverkehr </b>*(Masterplan Rail freight transport)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/E/masterplan-schienengueterverkehr.pdf?__blob=publicationFile
  
 - Roads:
 	- <b>Verkehrssicherheitsprogramm der Bundesregierung 2021-2030</b>  *(Federal Government's Road Safety Programme 2021-2030)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/broschuere-verkehrssicherheitsprogramm-2021-bis-2030.pdf?__blob=publicationFile
