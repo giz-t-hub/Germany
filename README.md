@@ -184,7 +184,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- Verkehrsentwicklungsplan 2020 +(Transport Development Plan Bonn 2020)*: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/verkehrsplanung_verkehrsentwicklungsplan.php
 	- Mobility transition Bonn: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/mobilitaetswende-in-bonn.php
 - Bremen
-- 
+- Chemnitz
 - Dortmund
 - Dresden
 	- Verkehrsentwicklungsplan 2025plus (Transport Development Plan 2025plus): https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
@@ -196,14 +196,18 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Frankfurt am Main
 - Hamburg
 - Hannover
+- Kaiserslautern
+	- <b>Mobilitätsplan Klima+ 2030 - Klimaschutz Teilkonzept Mobilität Kaiserslautern</b> *(Mobility Plan Climate+ 2030 - Climate Protection Subconcept Mobility Kaiserslautern)*: https://www.kaiserslautern.de/mb/themen/verkehr/mobilitaetsplan2030/endbericht/2018-08-16_kl_mobilitaetsplan-klima+2030_bericht.pdf
 - Kiel
-	- Verkehrsentwicklungsplan 2008 *( : https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/verkehrsentwicklungsplan.php); https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_vep/VEP_Langfassung_final.pdf
+	- <b>Verkehrsentwicklungsplan 2008 </b>*(Transport Development Plan 2008)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/verkehrsentwicklungsplan.php); https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_vep/VEP_Langfassung_final.pdf
  	- Konzeptpapier Mobilitätskonzept | ruhender Kfz-Verkehr 2035 *(Concept Paper Mobility Concept | Parking concept 2035)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_dokumente_ruhender_verkehr/kiel_konzept_ruhender_verkehr.pdf
 - Köln
 - Leipzig
 - München
 - Münster
 - Nürnberg
+- Oldenburg
+	- <b>Mobilitätsplan - Oldenburg 2030</b> *(Mobility Plan - Oldenburg 2030)*: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/42_Amt_fuer_Klimaschutz_und_Mobilitaet/422_Mobilitaet/Mobilitaetsplan_2030/Mobilitaetsplan_2030_Langfassung_b.pdf
 - Stuttgart
 - Wuppertal
 
@@ -212,7 +216,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Resources by Federal Environmental Agency:
 	- https://www.umweltbundesamt.de/themen/verkehr
 
-- <b>Mobilitäts- und Angebotsstrategien im ländlichen Raum</b> *(Mobility and Service Strategies in Rural Areas)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/mobilitaets-und-angebotsstrategien-in-laendlichen-raeumen-neu.pdf?__blob=publicationFile 
+- <b>Mobilitäts- und Angebotsstrategien im ländlichen Raum</b> *(Mobility and Service Strategies in Rural Areas)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/mobilitaets-und-angebotsstrategien-in-laendlichen-raeumen-neu.pdf?__blob=publicationFile
+- <b>Bestandserhebung und -analyse in Bezug auf nachhaltige urbane Mobilitätspläne (Sustainable Urban Mobility Plans - SUMPs) in deutschen Kommunen mit über 100.000 Einwohnern</b> *(Inventory and Analysis Regarding Sustainable Urban Mobility Plans (SUMPs) in German Municipalities with over 100,000 Inhabitants)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/G/sump-abschlussbericht-bestandserhebung-lang.pdf?__blob=publicationFile
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
