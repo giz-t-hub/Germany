@@ -170,6 +170,10 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
   	- <b>„Ab aufs Rad im echten Norden” - Radstrategie Schleswig-Holstein 2030</b> *(“Onto the Bike in the Real North” - Bicycle Strategy Schleswig-Holstein 2030)*: https://www.schleswig-holstein.de/DE/fachinhalte/R/radverkehr/Downloads/radstrategie_Broschuere.pdf?__blob=publicationFile&v=2
   	- <b>Hafen- und Logistikkonzept Schleswig-Holstein</b> *(Port and Logistics Concept Schleswig-Holstein)*: https://www.schleswig-holstein.de/DE/fachinhalte/L/logistik/Downloads/hafen_logistikkonzept.pdf?__blob=publicationFile&v=1
 - Thuringia (Thüringen)
+	- <b>Landesstraßenbedarfsplan 2030</b> *(State Road Demand Plan 2030)*: https://infrastruktur-landwirtschaft.thueringen.de/fileadmin/Verkehr_und_Strassenbau/Verkehrsinfrastruktur/Landesstrassenbedarfsplan/Landesstrassenbedarfsplan2030_08_2019.pdf
+	- <b>Gemeinsam sicher ankommen - Thüringer Verkehrssicherheitsprogramm 2030</b> *(Arriving Safely Together - Thuringian Traffic Safety Program 2030)*: https://infrastruktur-landwirtschaft.thueringen.de/fileadmin/Verkehr_und_Strassenbau/Strassenverkehr/Thueringer-Verkehrssicherheitsprogramm-2030.pdf
+	- <b>Masterplan Perspektiven für die Entwicklung der Eisenbahn-Schieneninfrastruktur in Thüringen</b> *(Master Plan Perspectives for the Development of Railway Infrastructure in Thuringia)*: https://infrastruktur-landwirtschaft.thueringen.de/fileadmin/Verkehr_und_Strassenbau/Masterplan/TMIL-Masterplan_Schiene-WEB.pdf
+ 	- <b>Thüringen steigt auf - Radverkehrskonzept 2.0 für den Freistaat Thüringen</b> *(Thuringia Rises - Bicycle Traffic Concept 2.0 for the Free State of Thuringia)*: https://infrastruktur-landwirtschaft.thueringen.de/fileadmin/Verkehr_und_Strassenbau/Radwege/Thueringer_Radverkehrskonzept.pdf
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
