@@ -163,7 +163,10 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
   	- <b>Verkehrssicherheitsprogramm des Landes Sachsen-Anhalt</b> *(Traffic Safety Program of the State of Saxony-Anhalt)*: https://mid.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MID/Ministerium/Publikationen/Verkehrssicherheitsprogramm_des_Landes_Sachsen-Anhalt_2021.pdf
   	- Overview: https://mid.sachsen-anhalt.de/infrastruktur/verkehr and https://www.nasa.de/verkehr-planung/oepnv-plan
 - Schleswig-Holstein
-- 
+	- <b>Landesweiter Nahverkehrsplan bis 2027</b> *(Statewide Public Transport Plan until 2027)*: https://unternehmen.nah.sh/assets/2021/Landesweiter-Nahverkehrsplan-2022-bis-2027_final.pdf
+ 	- <b>Mobilität der Zukunft in Schleswig-Holstein</b> *(Mobility of the Future in Schleswig-Holstein)*: https://www.schleswig-holstein.de/DE/fachinhalte/E/e_mobilitaet/Downloads/mobilitaetsgutachten.pdf?__blob=publicationFile&v=1
+  	- <b>„Ab aufs Rad im echten Norden” - Radstrategie Schleswig-Holstein 2030</b> *(“Onto the Bike in the REal North” - Bicycle Strategy Schleswig-Holstein 2030)*: https://www.schleswig-holstein.de/DE/fachinhalte/R/radverkehr/Downloads/radstrategie_Broschuere.pdf?__blob=publicationFile&v=2
+  	- <b>Hafen- und Logistikkonzept Schleswig-Holstein</b> *(Port and Logistics Concept Schleswig-Holstein)*: https://www.schleswig-holstein.de/DE/fachinhalte/L/logistik/Downloads/hafen_logistikkonzept.pdf?__blob=publicationFile&v=1
 - Thuringia (Thüringen)
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
