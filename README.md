@@ -180,9 +180,9 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - Berlin
 	- <b>Stadtentwicklungsplan Mobilität und Verkehr</b> *(Urban Development Plan for Mobility and Transport)*, 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
-		-<b> Berliner Mobilitätsgesetz </b>*(Berlin Mobility Act)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
- 		- <b>Radverkehrsplan</b> *(Cycling Plan)*:  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
-   		- <b>Nahverkehrsplan </b>*(public transport plan)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
+ 	- <b> Berliner Mobilitätsgesetz </b>*(Berlin Mobility Act)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
+ 	- <b>Radverkehrsplan</b> *(Cycling Plan)*:  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
+   	- <b>Nahverkehrsplan </b>*(public transport plan)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
        - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237 
 - Bielefeld
 	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
@@ -244,7 +244,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>3. Nahverkehrsplan</b> *(3rd Local Transport Plan)*: https://www.stadt-koeln.de/mediaasset/content/pdf66/dritter-nahverkehrsplan-12-2017.pdf     
 - Leipzig
 	- <b>Mobilitätsstrategie 2030</b> *(Mobility Strategy 2030)*: https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.6_Dez6_Stadtentwicklung_Bau/66_Verkehrs_und_Tiefbauamt/Mobilitaetsstrategie/Mobilitatsstrategie-2030.pdf
- 	-  
+ 	-  <b>Stadtentwicklungsplan Verkehr und öffentlicher Raum</b> *(Urban Development Plan for Mobility and Public Spaces)*:  https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.6_Dez6_Stadtentwicklung_Bau/66_Verkehrs_und_Tiefbauamt/StEP/StEP_Verkehr.pdf
+  	-  <b>Nahverkehrsplan der Stadt Leipzig</b> *(Local Transport Plan of the City of Leipzig)*: https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.6_Dez6_Stadtentwicklung_Bau/66_Verkehrs_und_Tiefbauamt/Nahverkehrsplan/Zweite-Fortschreibung-Nahverkehrsplan-Stadt-Leipzig-2019.pdf
 - München
 - Münster
 - Nürnberg
