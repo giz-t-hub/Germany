@@ -263,6 +263,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Stuttgart
 	- <b>Verkehrsentwicklungskonzept der Landeshauptstadt Stuttgart</b> (Transport Development Concept of the State Capital Stuttgart) https://www.stuttgart.de/medien/ibs/VEK-2030-Verkehrsentwicklungskonzept-PDF-32-MB.pdf
  	- <b>Aktionsplan 2023 „Nachhaltig und innovativ mobil in Stuttgart“</b> *(Action Plan 2023 "Sustainably and Innovatively Mobile in Stuttgart")*:  https://www.stuttgart.de/medien/ibs/aktionsplan-mobilitaet-2023-stand-nov23.pdf
+ 	 - <b> Klimamobilitätsplan </b> *(Climate Mobility Plan)*: https://www.stuttgart.de/service/aktuelle-meldungen/mai/klimamobilitaetsplan-der-landeshauptstadt-stuttgart-beschlossen-grosser-schritt-fuer-die-mobilitaet-der-zukunft.php
 - Wuppertal
 	- <b>Radverkehrskonzept</b> *(Cycling Concept)*: https://www.wuppertal.de/rathaus-buergerservice/verkehr/radverkehr/radverkehrskonzept.php
 
@@ -306,4 +307,4 @@ For more information about our work, please refer to:
 		
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of April 2024)
+- (as of May 2024)
