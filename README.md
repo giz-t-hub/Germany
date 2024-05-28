@@ -28,43 +28,43 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
-	- Bundesverkehrswegeplan 2030 *(Federal Transport Infrastructure Plan 2030)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/BVWP/bundesverkehrswegeplan-2030-inhalte-herunterladen.html
+	-</b> Bundesverkehrswegeplan 2030 </b> *(Federal Transport Infrastructure Plan 2030)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/BVWP/bundesverkehrswegeplan-2030-inhalte-herunterladen.html
 
 - General
-	- Die deutsche Nachhaltigkeitsstrategie *(German Sustainable Development Strategy)*: https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/deutsche-nachhaltigkeitsstrategie-318846; EN: [https://www.bundesregierung.de/resource/blob/975226/455740/260a9307085b9c7ef7543672f2147fe8/2017-06-20-langfassung-n-en-data.pdf?download=1](https://www.bundesregierung.de/resource/blob/975274/1941044/bdb1a9f7f4c14005a1a3e92a6cce777d/2021-07-09-kurzpapier-n-englisch-data.pdf?download=1)
+	- </b>Die deutsche Nachhaltigkeitsstrategie</b> *(German Sustainable Development Strategy)*: https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/deutsche-nachhaltigkeitsstrategie-318846; EN: [https://www.bundesregierung.de/resource/blob/975226/455740/260a9307085b9c7ef7543672f2147fe8/2017-06-20-langfassung-n-en-data.pdf?download=1](https://www.bundesregierung.de/resource/blob/975274/1941044/bdb1a9f7f4c14005a1a3e92a6cce777d/2021-07-09-kurzpapier-n-englisch-data.pdf?download=1)
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Aviation:
-	- Unmanned Aircraft Systems and Innovative Aviation Strategies The Federal Government’s Action Plan: https://bmdv.bund.de/SharedDocs/DE/Anlage/DG/aktionsplan-drohnen-englisch.pdf?__blob=publicationFile
-  	- Die Luftfahrtstrategie der Bundesregierung (*The Federal Government's Aviation Strategy)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Technologie/luftfahrtstrategie-der-bundesregierung.html
+	-<b> Unmanned Aircraft Systems and Innovative Aviation Strategies The Federal Government’s Action Plan</b>: https://bmdv.bund.de/SharedDocs/DE/Anlage/DG/aktionsplan-drohnen-englisch.pdf?__blob=publicationFile
+  	- <b>Die Luftfahrtstrategie der Bundesregierung</b> (*The Federal Government's Aviation Strategy)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Technologie/luftfahrtstrategie-der-bundesregierung.html
 
 - Cycling:
-	- Nationaler Radverkehrsplan 3.0 *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
+	-<b> Nationaler Radverkehrsplan 3.0</b> *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
     
 - Electric mobility:
-	- Elektromobilität in Deutschland *(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html; EN: https://www.bmwk.de/Redaktion/EN/Dossier/electric-mobility.html
-	- Masterplan Ladeinfrastruktur II *(Master plan charging infrastructure)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/G/masterplan-ladeinfrastruktur-2.pdf?__blob=publicationFile
-	- Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge *(Act on the Preferential Use of Electrically Powered Vehicles)*: https://www.gesetze-im-internet.de/emog/index.html
+	- <b>Elektromobilität in Deutschland </b>*(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html; EN: https://www.bmwk.de/Redaktion/EN/Dossier/electric-mobility.html
+	- <b>Masterplan Ladeinfrastruktur II </b>*(Master plan charging infrastructure)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/G/masterplan-ladeinfrastruktur-2.pdf?__blob=publicationFile
+	-<b> Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge </b>*(Act on the Preferential Use of Electrically Powered Vehicles)*: https://www.gesetze-im-internet.de/emog/index.html
 
 
 - Inland waterways, ports:
-	- Maritime Agenda 2025 - Für die Zukunft des maritimen Wirtschaftsstandorts Deutschland *(Maritime Agenda 2025
+	- <b>Maritime Agenda 2025 - Für die Zukunft des maritimen Wirtschaftsstandorts Deutschland </b>*(Maritime Agenda 2025
 For the future of Germany as a maritime business location)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Wirtschaft/maritime-agenda-2025.html
-	- Die Nationale Hafenstrategie *(The National Ports Strategy)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
+	- <b>Die Nationale Hafenstrategie *(The National Ports Strategy)*</b>: https://bmdv.bund.de/SharedDocs/DE/Publikationen/WS/hafenstrategie-24.pdf?__blob=publicationFile
 
 - Logistics:
-	- Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft *(Action Plan 
+	-<b> Aktionsplan Güterverkehr und Logistik - nachhaltig und effzient in die Zukunft</b> *(Action Plan 
 Freight transport and logistics - Sustainable and efficient into the future)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/aktionsplan-gueterverkehr-und-logistik.pdf?__blob=publicationFile
 
 - Public transport:
-	- Gemeindeverkehrsfinanzierungsgesetz *(Municipal Transport Financing Act)*: https://www.gesetze-im-internet.de/gvfg/GVFG.pdf 
+	- <b>Gemeindeverkehrsfinanzierungsgesetz </b>*(Municipal Transport Financing Act)*: https://www.gesetze-im-internet.de/gvfg/GVFG.pdf 
 
 - Railways:
-	- Masterplan Schienengüterverkehr *(Masterplan Rail freight transport)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/E/masterplan-schienengueterverkehr.pdf?__blob=publicationFile
+	-<b> Masterplan Schienengüterverkehr </b>*(Masterplan Rail freight transport)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/E/masterplan-schienengueterverkehr.pdf?__blob=publicationFile
  
 - Roads:
-	- Verkehrssicherheitsprogramm der Bundesregierung 2021-2030  *(Federal Government's Road Safety Programme 2021-2030)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/broschuere-verkehrssicherheitsprogramm-2021-bis-2030.pdf?__blob=publicationFile
+	- <b>Verkehrssicherheitsprogramm der Bundesregierung 2021-2030</b>  *(Federal Government's Road Safety Programme 2021-2030)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/broschuere-verkehrssicherheitsprogramm-2021-bis-2030.pdf?__blob=publicationFile
 
 
 
@@ -72,7 +72,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-	- 2024 National Inventory Document (NID): https://unfccc.int/documents/637995
+	- <b>2024 National Inventory Document (NID)</b>: https://unfccc.int/documents/637995
 	- <b>Klimaschutzplan 2050</b>: https://www.bmwk.de/Redaktion/DE/Publikationen/Industrie/klimaschutzplan-2050.html ; EN: Climate Action Plan 2050: https://www.bmuv.de/publikation/climate-action-plan-2050-de
 	- <b>Klimaschutzprogramm 2023 der Bundesregierung</b>: https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/20231004-klimaschutzprogramm-der-bundesregierung.pdf?__blob=publicationFile&v=10; EN: Climate Action Programme of the German Federal Government: https://www.bmwk.de/Redaktion/EN/Downloads/C/climate-action-programme-2023.pdf?__blob=publicationFile&v=2
 	- <b>Bundes-Klimaschutzgesetz (KSG)</b> *(Federal Climate Protection Act)*; https://www.gesetze-im-internet.de/ksg/BJNR251310019.html
