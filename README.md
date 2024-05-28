@@ -247,8 +247,17 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	-  <b>Stadtentwicklungsplan Verkehr und öffentlicher Raum</b> *(Urban Development Plan for Mobility and Public Spaces)*:  https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.6_Dez6_Stadtentwicklung_Bau/66_Verkehrs_und_Tiefbauamt/StEP/StEP_Verkehr.pdf
   	-  <b>Nahverkehrsplan der Stadt Leipzig</b> *(Local Transport Plan of the City of Leipzig)*: https://static.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.6_Dez6_Stadtentwicklung_Bau/66_Verkehrs_und_Tiefbauamt/Nahverkehrsplan/Zweite-Fortschreibung-Nahverkehrsplan-Stadt-Leipzig-2019.pdf
 - München
+	- <b>Fortschreibung des Nahverkehrsplans der Landeshauptstadt München Teil Qualitätsstandards</b> *(Update of the Local Transport Plan of the State Capital Munich Part Quality Standards)*: https://stadt.muenchen.de/dam/jcr:e13e0a59-e494-4227-af1c-a6bdc69df3c0/Muenchner_Nahverkehrsplan_Endbericht.pdf
 - Münster
-- Nürnberg
+	- <b>Radverkehrskonzept - Münster 2025</b> *(Cycling Concept - Münster 2025)*: https://www.stadt-muenster.de/sessionnet/sessionnetbi/vo0050.php?__kvonr=2004040556&search=1
+ 	- <b>3. Nahverkehrsplan Stadt Münster</b> *(3rd Local Transport Plan City of Münster)*: https://www.stadt-muenster.de/sessionnet/sessionnetbi/vo0050.php?__kvonr=2004039107
+- Nuremberg (Nürnberg)
+	- <b>Mobilitätsbeschluss für Nürnberg - Masterplan nachhaltige Mobilität</b> *(Mobility Resolution for Nuremberg - Master Plan for Sustainable Mobility)*: https://www.nuernberg.de/imperia/md/verkehrsplanung/dokumente/vpl/mobilitatsbeschluss_druckversion.pdf
+ 	- <b>Nahverkehrsplan</b> *(Local Transport Plan)*: https://www.nuernberg.de/internet/verkehrsplanung/nahverkehrsentwicklungsplan.html
+  	- <b>Nürnberg steigt aufs Fahrrad 2030 Fortschreibung der Radverkehrsstrategie</b> *(Nuremberg Rides the Bicycle 2030 Update of Cycling Strategy)*: https://www.nuernberg.de/imperia/md/verkehrsplanung/dokumente/vpl/radverkehrsstrategie_2030_low_index.pdf
+  	- <b>Masterplan schneller und pünktlicher ÖPNV in Nürnberg</b> *(Master Plan for Faster and Punctual Public Transport in Nuremberg)*: https://www.nuernberg.de/imperia/md/verkehrsplanung/dokumente/2022_09_02bericht_mit_impressum_und_umschlag.pdf
+  	- <b> Fußverkehrsstrategie </b> *(Pedestrian stratgey)*: https://www.nuernberg.de/imperia/md/verkehrsplanung/dokumente/vpl/vpl_fussverkehrsstrategie_web.pdf
+
 - Oldenburg
 	- <b>Mobilitätsplan - Oldenburg 2030</b> *(Mobility Plan - Oldenburg 2030)*: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/42_Amt_fuer_Klimaschutz_und_Mobilitaet/422_Mobilitaet/Mobilitaetsplan_2030/Mobilitaetsplan_2030_Langfassung_b.pdf
 - Stuttgart
