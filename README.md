@@ -261,7 +261,10 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Oldenburg
 	- <b>Mobilitätsplan - Oldenburg 2030</b> *(Mobility Plan - Oldenburg 2030)*: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/42_Amt_fuer_Klimaschutz_und_Mobilitaet/422_Mobilitaet/Mobilitaetsplan_2030/Mobilitaetsplan_2030_Langfassung_b.pdf
 - Stuttgart
+	- <b>Verkehrsentwicklungskonzept der Landeshauptstadt Stuttgart</b> (Transport Development Concept of the State Capital Stuttgart) https://www.stuttgart.de/medien/ibs/VEK-2030-Verkehrsentwicklungskonzept-PDF-32-MB.pdf
+ 	- <b>Aktionsplan 2023 „Nachhaltig und innovativ mobil in Stuttgart“</b> *(Action Plan 2023 "Sustainably and Innovatively Mobile in Stuttgart")*:  https://www.stuttgart.de/medien/ibs/aktionsplan-mobilitaet-2023-stand-nov23.pdf
 - Wuppertal
+	- <b>Radverkehrskonzept</b> *(Cycling Concept)*: https://www.wuppertal.de/rathaus-buergerservice/verkehr/radverkehr/radverkehrskonzept.php
 
 ### Studies and research papers <a name="studies-research"></a> 
 
