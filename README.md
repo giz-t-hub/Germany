@@ -108,7 +108,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### State Transport Plans <a name="state-transport-plans"></a>
 
 - Baden-Württemberg
-	-<b> Eckpunkte der Landesregierung zum Landeskonzept Mobilität und Klima (LMK) </b> *(Key points of the state government on  State concept for mobility and climate (LMK))*: 
+	- <b> Eckpunkte der Landesregierung zum Landeskonzept Mobilität und Klima (LMK) </b> *(Key points of the state government on  State concept for mobility and climate (LMK))*: 
  https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/PDF/221111_Eckpunktepapier_Landeskonzept_Mobilit%C3%A4t_und_Klima__barrierefrei__01.pdf
   	- <b>ÖPNV-Strategie 2030 </b> *(Public transport strategy 2030)*: https://vm.baden-wuerttemberg.de/de/service/publikation/did/oepnv-strategie-2030-broschuere
 	- <b>Verkehrssicherheitskonzept Baden-Württemberg</b>: https://vm.baden-wuerttemberg.de/de/service/publikation/did/verkehrssicherheitskonzept-baden-wuerttemberg
