@@ -28,7 +28,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
-	-<b> Bundesverkehrswegeplan 2030 </b> *(Federal Transport Infrastructure Plan 2030)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/BVWP/bundesverkehrswegeplan-2030-inhalte-herunterladen.html
+	- <b> Bundesverkehrswegeplan 2030 </b> *(Federal Transport Infrastructure Plan 2030)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/G/BVWP/bundesverkehrswegeplan-2030-inhalte-herunterladen.html
 
 - General
 	- <b>Die deutsche Nachhaltigkeitsstrategie</b> *(German Sustainable Development Strategy)*: https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/deutsche-nachhaltigkeitsstrategie-318846; EN: [https://www.bundesregierung.de/resource/blob/975226/455740/260a9307085b9c7ef7543672f2147fe8/2017-06-20-langfassung-n-en-data.pdf?download=1](https://www.bundesregierung.de/resource/blob/975274/1941044/bdb1a9f7f4c14005a1a3e92a6cce777d/2021-07-09-kurzpapier-n-englisch-data.pdf?download=1)
