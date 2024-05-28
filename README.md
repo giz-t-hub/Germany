@@ -101,11 +101,11 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 ### Digitalisation <a name="digitalisation"></a>
 
-- Digitalstrategie - Gemeinsam digitale Werte schöpfen  *(Digital strategy - Creating digital value together)*: https://digitalstrategie-deutschland.de/ ; https://digitalstrategie-deutschland.de/static/67803f22e4a62d19e9cf193c06999bcf/220830_Digitalstrategie_fin-barrierefrei.pdf
+-<b> Digitalstrategie - Gemeinsam digitale Werte schöpfen</b>  *(Digital strategy - Creating digital value together)*: https://digitalstrategie-deutschland.de/ ; https://digitalstrategie-deutschland.de/static/67803f22e4a62d19e9cf193c06999bcf/220830_Digitalstrategie_fin-barrierefrei.pdf
 
 ### Gender and Equality <a name="gender"></a>
 
-- Gleichstellungsstrategie der Bundesregierung *(The Federal Government's Gender Equality Strategy)*: https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/gleichstellung-und-teilhabe/gleichstellungsstrategie-der-bundesregierung/die-gleichstellungsstrategie-der-bundesregierung-154174
+- <b>Gleichstellungsstrategie der Bundesregierung </b>*(The Federal Government's Gender Equality Strategy)*: https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/gleichstellung-und-teilhabe/gleichstellungsstrategie-der-bundesregierung/die-gleichstellungsstrategie-der-bundesregierung-154174
 
 ### State Transport Plans <a name="state-transport-plans"></a>
 
@@ -181,10 +181,10 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Berlin
-	- Stadtentwicklungsplan Mobilität und Verkehr (Urban Development Plan for Mobility and Transport), 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
-	- Berliner Mobilitätsgesetz (Berlin Mobility Act): https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
- 		- Radverkehrsplan (Cycling Plan):  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
-   		- Nahverkehrsplan (public transport plan): https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
+	- <b>Stadtentwicklungsplan Mobilität und Verkehr</b> *(Urban Development Plan for Mobility and Transport)*, 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
+	-<b> Berliner Mobilitätsgesetz </b>*(Berlin Mobility Act)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
+ 		- <b>Radverkehrsplan</b> *(Cycling Plan)*:  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
+   		- <b>Nahverkehrsplan </b>*(public transport plan)+: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
        - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237 
 - Bielefeld
 	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
