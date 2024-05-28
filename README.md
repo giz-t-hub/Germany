@@ -110,29 +110,29 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### State Transport Plans <a name="state-transport-plans"></a>
 
 - Baden-Württemberg
-	- Eckpunkte der Landesregierung zum Landeskonzept Mobilität und Klima (LMK) *(Key points of the state government on  State concept for mobility and climate (LMK))*: 
+	-<b> Eckpunkte der Landesregierung zum Landeskonzept Mobilität und Klima (LMK) </b> *(Key points of the state government on  State concept for mobility and climate (LMK))*: 
  https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/PDF/221111_Eckpunktepapier_Landeskonzept_Mobilit%C3%A4t_und_Klima__barrierefrei__01.pdf
-  	- ÖPNV-Strategie 2030 *(Public transport strategy 2030)*: https://vm.baden-wuerttemberg.de/de/service/publikation/did/oepnv-strategie-2030-broschuere
-	- Verkehrssicherheitskonzept Baden-Württemberg: https://vm.baden-wuerttemberg.de/de/service/publikation/did/verkehrssicherheitskonzept-baden-wuerttemberg
-	- Digitale Mobilität: https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/Broschueren_Publikationen/200625_MfV_Bro_Digitale_Mobilita%CC%88t_A4_56S_WEB.pdf
+  	- <b>ÖPNV-Strategie 2030 </b> *(Public transport strategy 2030)*: https://vm.baden-wuerttemberg.de/de/service/publikation/did/oepnv-strategie-2030-broschuere
+	- <b>Verkehrssicherheitskonzept Baden-Württemberg</b>: https://vm.baden-wuerttemberg.de/de/service/publikation/did/verkehrssicherheitskonzept-baden-wuerttemberg
+	- <b>Digitale Mobilität</b>: https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/Broschueren_Publikationen/200625_MfV_Bro_Digitale_Mobilita%CC%88t_A4_56S_WEB.pdf
 - Bavaria (Bayern)
-	- ÖPNV-Strategie 2030 für den Freistaat Bayern: https://www.stmb.bayern.de/assets/stmi/med/aktuell/stmb_o%CC%88pnv-strategie_bayern_endbericht-2022-12-07-rz-bf.pdf
- 	- Güterverkehrskonzept Bayern - überall, einfach, modern und digital: https://www.stmb.bayern.de/assets/stmi/vum/handlungsfelder/240126_gu%CC%88terverkehrskonzept-bayern.pdf
+	- <b>ÖPNV-Strategie 2030 für den Freistaat Bayern</b> *(Public Transport Stratgey Bavaria)*: https://www.stmb.bayern.de/assets/stmi/med/aktuell/stmb_o%CC%88pnv-strategie_bayern_endbericht-2022-12-07-rz-bf.pdf
+ 	- <b>Güterverkehrskonzept Bayern - überall, einfach, modern und digital </b>: https://www.stmb.bayern.de/assets/stmi/vum/handlungsfelder/240126_gu%CC%88terverkehrskonzept-bayern.pdf
   	- Overview: https://www.stmb.bayern.de/vum/handlungsfelder/index.php
-  	- Moderne Mobilität in Bayern - Der Werkzeugkasten Mobilität trägt Wissen und Erfahrungen aus ganz Bayern zusammen: Von Kommunen für Kommunen.https://www.wir-bewegen.bayern.de/
+  	- <b>Moderne Mobilität in Bayern - Der Werkzeugkasten Mobilität trägt Wissen und Erfahrungen aus ganz Bayern zusammen: Von Kommunen für Kommunen</b>.https://www.wir-bewegen.bayern.de/
 - Berlin (see chapter "Local Transport Plans)
 - Brandenburg
-	- Mobilitätsstrategie 2030 des Landes Brandenburg: https://mil.brandenburg.de/sixcms/media.php/9/Mobilitaetsstrategie-Brandenburg-2030.pdf
- 	- Radverkehrsstrategie 2030 des Landes Brandenburg *(Cycling strategy 2030)*: https://mil.brandenburg.de/sixcms/media.php/9/Radverkehrsstrategie%202030%20des%20Landes%20Brandenburg.pdf
-  	- Resilient im Klimawandel – Klimaanpassung in Städten und Gemeinden: https://mil.brandenburg.de/sixcms/media.php/9/Arbeitshilfe%20Resilient%20im%20Klimawandel.pdf	
- 	- Verkehrssicherheitsprogramm 2024: https://mil.brandenburg.de/sixcms/media.php/9/Verkehrssicherheitsprogramm_2024_bf.pdf
+	- <b>Mobilitätsstrategie 2030 des Landes Brandenburg</b>: https://mil.brandenburg.de/sixcms/media.php/9/Mobilitaetsstrategie-Brandenburg-2030.pdf
+ 	- <b>Radverkehrsstrategie 2030 des Landes Brandenburg</b> *(Cycling strategy 2030)*: https://mil.brandenburg.de/sixcms/media.php/9/Radverkehrsstrategie%202030%20des%20Landes%20Brandenburg.pdf
+  	- <b>Resilient im Klimawandel – Klimaanpassung in Städten und Gemeinden</b>: https://mil.brandenburg.de/sixcms/media.php/9/Arbeitshilfe%20Resilient%20im%20Klimawandel.pdf	
+ 	- <b>Verkehrssicherheitsprogramm 2024</b>: https://mil.brandenburg.de/sixcms/media.php/9/Verkehrssicherheitsprogramm_2024_bf.pdf
   	- Overview: https://mil.brandenburg.de/mil/de/themen/mobilitaet-verkehr/
 - Bremen (see chapter "Local Transport Plans)
 - Hamburg (see chapter "Local Transport Plans)
 - Hesse (Hessen)
-	- Hessenstrategie Mobilität 2035: https://www.mobileshessen2030.de/mm/105_55_Hessenstrategie_Mobilitat_2035_online.pdf
-	- Nahmobilitätsstrategie für Hessen: https://www.nahmobil-hessen.de/wp-content/uploads/2019/07/2019-07-23_Nahmobilit%C3%A4tsstrategie_GESAMT_web.pdf
-	- Radverkehr: Musterlösungen und Qualitätsstandards *(Cycling: Model solutions and quality standards)*: https://www.nahmobil-hessen.de/unterstuetzung/planen-und-bauen/schneller-radfahren/musterloesungen-und-qualitaetsstandards/
+	- <b>Hessenstrategie Mobilität 2035</b>: https://www.mobileshessen2030.de/mm/105_55_Hessenstrategie_Mobilitat_2035_online.pdf
+	- <b>Nahmobilitätsstrategie für Hessen</b>: https://www.nahmobil-hessen.de/wp-content/uploads/2019/07/2019-07-23_Nahmobilit%C3%A4tsstrategie_GESAMT_web.pdf
+	- <b>Radverkehr: Musterlösungen und Qualitätsstandards</b> *(Cycling: Model solutions and quality standards)*: https://www.nahmobil-hessen.de/unterstuetzung/planen-und-bauen/schneller-radfahren/musterloesungen-und-qualitaetsstandards/
 	- Overview: https://wirtschaft.hessen.de/verkehr 
 - Lower Saxony (Niedersachsen)
 	- <b>Mobilität braucht Perspektiven - Mobilitätskonzept Niedersachsen</b> (Mobility Needs Perspectives - Mobility Concept Lower Saxony): https://www.mw.niedersachsen.de/download/107899/Mobilitaetskonzept_zum_Download_.pdf
@@ -174,6 +174,9 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Gemeinsam sicher ankommen - Thüringer Verkehrssicherheitsprogramm 2030</b> *(Arriving Safely Together - Thuringian Traffic Safety Program 2030)*: https://infrastruktur-landwirtschaft.thueringen.de/fileadmin/Verkehr_und_Strassenbau/Strassenverkehr/Thueringer-Verkehrssicherheitsprogramm-2030.pdf
 	- <b>Masterplan Perspektiven für die Entwicklung der Eisenbahn-Schieneninfrastruktur in Thüringen</b> *(Master Plan Perspectives for the Development of Railway Infrastructure in Thuringia)*: https://infrastruktur-landwirtschaft.thueringen.de/fileadmin/Verkehr_und_Strassenbau/Masterplan/TMIL-Masterplan_Schiene-WEB.pdf
  	- <b>Thüringen steigt auf - Radverkehrskonzept 2.0 für den Freistaat Thüringen</b> *(Thuringia Rises - Bicycle Traffic Concept 2.0 for the Free State of Thuringia)*: https://infrastruktur-landwirtschaft.thueringen.de/fileadmin/Verkehr_und_Strassenbau/Radwege/Thueringer_Radverkehrskonzept.pdf
+	- <b>Thüringer Charta für Rad- und Fußverkehr</b> *(Thuringian Charter for Bicycle and Pedestrian Traffic)*: https://infrastruktur-landwirtschaft.thueringen.de/fileadmin/Verkehr_und_Strassenbau/Radwege/Charta/ThCharta-Fuss-und-Radverkehr-Download.pdf
+  	- Overview: https://infrastruktur-landwirtschaft.thueringen.de/unsere-themen/verkehr-und-strassenbau
+
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
@@ -193,6 +196,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- Verkehrsentwicklungsplan 2020 +(Transport Development Plan Bonn 2020)*: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/verkehrsplanung_verkehrsentwicklungsplan.php
 	- Mobility transition Bonn: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/mobilitaetswende-in-bonn.php
 - Bremen
+- 
 - Chemnitz
 - Dortmund
 - Dresden
