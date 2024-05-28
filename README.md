@@ -238,7 +238,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	- <b>Konzeptpapier Mobilitätskonzept | ruhender Kfz-Verkehr 2035 </b>*(Concept Paper Mobility Concept | Parking concept 2035)*: https://www.kiel.de/de/umwelt_verkehr/verkehrswege/verkehrsentwicklung/_dokumente_ruhender_verkehr/kiel_konzept_ruhender_verkehr.pdf
 - Cologne (Köln)
 	- <b>Strategiepapier Köln mobil 2025</b> *(Strategy Paper Cologne Mobile 2025)*: https://www.stadt-koeln.de/mediaasset/content/pdf66/koeln-mobil-2025.pdf
-	- <b>Green City Masterplan der Stadt Köln</b> *(Green City Master Plan of the City of Cologne)*: https://ratsinformation.stadt-koeln.de/getfile.asp?d=674618&type=do
+	- <b>Green City Masterplan der Stadt Köln</b> *(Green City Master Plan of the City of Cologne)*: https://ratsinformation.stadt-koeln.de/getfile.asp?id=674618&type=do
 - Leipzig
 - München
 - Münster
