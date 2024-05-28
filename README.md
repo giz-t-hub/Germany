@@ -190,7 +190,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
 - Bochum
 	-<b> Mobilitätskonzept der Stadt Bochum</b> *(Mobility concept of the city of Bochum)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept; for details: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Gliederung-des-Mobilitaetskonzepts-Themen
-	- <b>Leitbild Mobilität 2030 *(Mobility 2030 mission statement)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Leitbild-Mobilitaet-2030
+	- <b>Leitbild Mobilität 2030 </b>*(Mobility 2030 mission statement)*: https://www.bochum.de/Amt-fuer-Stadtplanung-und-Wohnen/Mobilitaetskonzept/Leitbild-Mobilitaet-2030
 	- <b>Nahverkehrsplan</b> *(Local Transport Plan)*: https://www.bochum.de/Tiefbauamt/Dienstleistungen-und-Infos/OePNV-in-Bochum 
 - Bonn
 	- <b>Verkehrsentwicklungsplan 2020 </b>*(Transport Development Plan Bonn 2020)*: https://www.bonn.de/themen-entdecken/verkehr-mobilitaet/verkehrsplanung_verkehrsentwicklungsplan.php
@@ -202,6 +202,12 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Chemnitz
 	- <b>Nahverkehrsplan Teil B-I Stadt Chemnitz als Bestandteil des Nahverkehrsplans des ZVMS für den Nahverkehrsraum Chemnitz/Zwickau 2021-2025</b> *(Local Transport Plan Part B-I City of Chemnitz as part of the Local Transport Plan of the ZVMS for the Chemnitz/Zwickau Local Transport Area 2021-2025)*: https://sessionnet.krz.de/chemnitz/bi/to0050.asp?__ktonr=7069119
 - Dortmund
+	- <b>Strategie Verkehrssicherheit</b> *(Traffic Safety Strategy)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/strategie_verkehrssicherheit.pdf
+	- <b>Strategie Fußverkehr</b> *(Pedestrian Traffic Strategy)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/strategie_fussverkehr.pdf
+	- <b>Strategie Barrierefreiheit</b> *(Accessibility Strategy)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/strategie_barrierefreiheit.pdf
+	- <b>Strategie Öffentlicher Raum</b> *(Public Space Strategy)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/strategie_oeffentlicher_raum.pdf
+	- <b>Strategie Ruhender Verkehr</b> *(Parking Strategy)*: https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/strategie_ruhender_verkehr.pdf
+ 	- <b>Radverkehrsstrategie - Teilkonzept Radverkehr und Verkehrssicherheit</b> *(Cycling Strategy)* - Subconcept Bicycle Traffic and Traffic Safety) https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/stadtplanungs-und-bauordnungsamt/downloads/masterplan-mobilitaet-2030/221214_do_masterplan-mobilitaet_radverkehrsstrategie.pdf
 - Dresden
 	- </b>Verkehrsentwicklungsplan 2025plus</b> *(Transport Development Plan 2025plus)*: https://www.dresden.de/de/stadtraum/verkehr/verkehrsplanung/verkehrsentwicklungsplanung/010_Verkehrsentwicklungsplan_2025.php; EN Overview: https://www.dresden.de/media/pdf/stadtplanung/verkehr/VEP_2025plus_-_Ein_Ueberblick_EN.pdf
  	- <b>Green City Plan</b>: https://www.dresden.de/media/pdf/stadtplanung/verkehr/GCP_Dresden.pdf
