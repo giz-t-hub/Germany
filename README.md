@@ -183,8 +183,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	- <b> Berliner Mobilitätsgesetz </b>*(Berlin Mobility Act)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
  	- <b>Radverkehrsplan</b> *(Cycling Plan)*:  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
    	- <b>Nahverkehrsplan </b>*(public transport plan)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
-       - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237
 	- <b>Integriertes Wirtschaftsverkehrskonzept (IWVK)</b> *(Integrated Logistics Concept)*: https://www.berlin.de/sen/uvk/_assets/verkehr/verkehrspolitik/iwvk/broschuere_iwvk.pdf?ts=1705017672
+ 	- Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237
 - Bielefeld
 	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
 - Bochum
