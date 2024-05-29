@@ -183,7 +183,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	- <b> Berliner Mobilitätsgesetz </b>*(Berlin Mobility Act)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/mobilitaetsgesetz/
  	- <b>Radverkehrsplan</b> *(Cycling Plan)*:  https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/radverkehr/radverkehrsplan/
    	- <b>Nahverkehrsplan </b>*(public transport plan)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
-       - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237 
+       - Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237
+	- <b>Integriertes Wirtschaftsverkehrskonzept (IWVK)</b> *(Integrated Logistics Concept)*: https://www.berlin.de/sen/uvk/_assets/verkehr/verkehrspolitik/iwvk/broschuere_iwvk.pdf?ts=1705017672
 - Bielefeld
 	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
 - Bochum
@@ -249,7 +250,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - München
 	- <b>Fortschreibung des Nahverkehrsplans der Landeshauptstadt München Teil Qualitätsstandards</b> *(Update of the Local Transport Plan of the State Capital Munich Part Quality Standards)*: https://stadt.muenchen.de/dam/jcr:e13e0a59-e494-4227-af1c-a6bdc69df3c0/Muenchner_Nahverkehrsplan_Endbericht.pdf
 - Münster
-	- <b>Radverkehrskonzept - Münster 2025</b> *(Cycling Concept - Münster 2025)*: https://www.stadt-muenster.de/sessionnet/sessionnetbi/vo0050.php?__kvonr=2004040556&search=1
+	- <b>Masterplan Mobilität Münster 2035+</b> *(Master Plan Mobility Münster 2035+*: https://www.stadt-muenster.de/sessionnet/sessionnetbi/vo0050.php?__kvonr=2004053729
+  	- <b>Radverkehrskonzept - Münster 2025</b> *(Cycling Concept - Münster 2025)*: https://www.stadt-muenster.de/sessionnet/sessionnetbi/vo0050.php?__kvonr=2004040556&search=1
  	- <b>3. Nahverkehrsplan Stadt Münster</b> *(3rd Local Transport Plan City of Münster)*: https://www.stadt-muenster.de/sessionnet/sessionnetbi/vo0050.php?__kvonr=2004039107
 - Nuremberg (Nürnberg)
 	- <b>Mobilitätsbeschluss für Nürnberg - Masterplan nachhaltige Mobilität</b> *(Mobility Resolution for Nuremberg - Master Plan for Sustainable Mobility)*: https://www.nuernberg.de/imperia/md/verkehrsplanung/dokumente/vpl/mobilitatsbeschluss_druckversion.pdf
