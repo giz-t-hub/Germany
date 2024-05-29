@@ -105,7 +105,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - <b>Gleichstellungsstrategie der Bundesregierung </b>*(The Federal Government's Gender Equality Strategy)*: https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/gleichstellung-und-teilhabe/gleichstellungsstrategie-der-bundesregierung/die-gleichstellungsstrategie-der-bundesregierung-154174
 
-### State Transport Plans <a name="state-transport-plans"></a>
+### Transport Plans, Concepts etc at State level <a name="state-transport-plans"></a>
 
 - Baden-Württemberg
 	- <b> Eckpunkte der Landesregierung zum Landeskonzept Mobilität und Klima (LMK) </b> *(Key points of the state government on  State concept for mobility and climate (LMK))*: 
@@ -176,7 +176,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
   	- Overview: https://infrastruktur-landwirtschaft.thueringen.de/unsere-themen/verkehr-und-strassenbau
 
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 - Berlin
 	- <b>Stadtentwicklungsplan Mobilität und Verkehr</b> *(Urban Development Plan for Mobility and Transport)*, 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
