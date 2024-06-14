@@ -145,7 +145,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Das Verkehrssicherheitsprogramm Nordrhein-Westfalen 2030</b> *(The Road Safety Program North Rhine-Westphalia 2030)*: https://broschuerenservice.nrw.de/munv/shop/Das_Verkehrssicherheitsprogramm_Nordrhein-Westfalen_2030/18
   	- <b>Zukunftsnetz Mobilität </b> *(municipal support network)*: https://www.zukunftsnetz-mobilitaet.nrw.de/
   	- <b>Aktionsplan des Landes Nordrhein-Westfalen zum Fahrrad- und Nahmobilitätsgesetz (FaNaG)</b> *(Action Plan of the State of North Rhine-Westphalia for the Bicycle and Local Mobility Act (FaNaG))*: https://www.agfs-nrw.de/fileadmin/Fachthemen/Nahmobilitaet/aktionsplan-fahrrad-und-nahmobilitaetsgesetz.pdf
-  	- Overview: https://www.umwelt.nrw.de/themen/verkehr
+	- <b>Qualitätsbericht SPNV Nordrhein-Westfalen</b> (Quality Report SPNV North Rhine-Westphalia): https://www.kcitf-nrw.de/fileadmin/03_KC_Seiten/KCITF/Service/Qualitaetsbericht_SPNV_NRW_2023.pdf 
+   	- Overview: https://www.umwelt.nrw.de/themen/verkehr
 - Rhineland-Palatinate (Rheinland-Pfalz)
 	- Overview: https://mwvlw.rlp.de/themen/verkehr
 - Saarland
