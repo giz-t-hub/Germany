@@ -271,6 +271,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - Wuppertal
 	- <b>Radverkehrskonzept</b> *(Cycling Concept)*: https://www.wuppertal.de/rathaus-buergerservice/verkehr/radverkehr/radverkehrskonzept.php
 
+- BMDV Nachhaltig-mobil-planen, support material, templates: https://nachhaltig-mobil-planen.de/_SUMP/DE/Informieren-Vernetzen/Materialien/materialien.html
+ 
 ### Studies and research papers <a name="studies-research"></a> 
 
 - Resources by Federal Environmental Agency:
