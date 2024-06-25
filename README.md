@@ -114,6 +114,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
   	- <b>ÖPNV-Strategie 2030 </b> *(Public transport strategy 2030)*: https://vm.baden-wuerttemberg.de/de/service/publikation/did/oepnv-strategie-2030-broschuere
 	- <b>Verkehrssicherheitskonzept Baden-Württemberg</b>: https://vm.baden-wuerttemberg.de/de/service/publikation/did/verkehrssicherheitskonzept-baden-wuerttemberg
 	- <b>Digitale Mobilität</b>: https://vm.baden-wuerttemberg.de/fileadmin/redaktion/m-mvi/intern/Dateien/Broschueren_Publikationen/200625_MfV_Bro_Digitale_Mobilita%CC%88t_A4_56S_WEB.pdf
+	 -<b> Qualitätsranking Eisenbahnnah- und Regionalverkehr </b> *(Quality Ranking >/>: https://www2.bwegt.de/ueber-bwegt/qualitaet-im-spnv
 - Bavaria (Bayern)
 	- <b>ÖPNV-Strategie 2030 für den Freistaat Bayern</b> *(Public Transport Stratgey Bavaria)*: https://www.stmb.bayern.de/assets/stmi/med/aktuell/stmb_o%CC%88pnv-strategie_bayern_endbericht-2022-12-07-rz-bf.pdf
  	- <b>Güterverkehrskonzept Bayern - überall, einfach, modern und digital </b>: https://www.stmb.bayern.de/assets/stmi/vum/handlungsfelder/240126_gu%CC%88terverkehrskonzept-bayern.pdf
@@ -178,7 +179,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
   	- Overview: https://infrastruktur-landwirtschaft.thueringen.de/unsere-themen/verkehr-und-strassenbau
 
 
-### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
+### Urban Mobility Plans, Strategies, and Concepts; Local Transport Plans, etc <a name="local-transport-plans"></a>  
 
 - Berlin
 	- <b>Stadtentwicklungsplan Mobilität und Verkehr</b> *(Urban Development Plan for Mobility and Transport)*, 2021: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/stadtentwicklungsplan-mobilitaet-und-verkehr/
