@@ -281,6 +281,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - <b>Mobilitäts- und Angebotsstrategien im ländlichen Raum</b> *(Mobility and Service Strategies in Rural Areas)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/mobilitaets-und-angebotsstrategien-in-laendlichen-raeumen-neu.pdf?__blob=publicationFile
 - <b>Bestandserhebung und -analyse in Bezug auf nachhaltige urbane Mobilitätspläne (Sustainable Urban Mobility Plans - SUMPs) in deutschen Kommunen mit über 100.000 Einwohnern</b> *(Inventory and Analysis Regarding Sustainable Urban Mobility Plans (SUMPs) in German Municipalities with over 100,000 Inhabitants)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/G/sump-abschlussbericht-bestandserhebung-lang.pdf?__blob=publicationFile
+- Parkverbote für „Monster-SUV“? Gestaltungsmöglichkeiten zur Beschränkung des innerstädtischen Parkraumes für übermäßig große Pkw: https://www.duh.de/fileadmin/user_upload/download/Projektinformation/Verkehr/SUV/2024_06_07_SUV_Parkfla%CC%88chen_Gutachten_final.pdf
 
 - History channel:
 	- <b>Verkehrsbericht 2000 - Integrierte Verkehrspolitik: Unser Konzept für eine mobile Zukunft</b> *(Traansport Report 2000 - Integrated Transport Policy: Our Concept for a Mobile Future)*: https://dserver.bundestag.de/btd/14/046/1404688.pdf
