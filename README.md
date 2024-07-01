@@ -120,15 +120,15 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	- <b>Güterverkehrskonzept Bayern - überall, einfach, modern und digital </b>: https://www.stmb.bayern.de/assets/stmi/vum/handlungsfelder/240126_gu%CC%88terverkehrskonzept-bayern.pdf
   	- Overview: https://www.stmb.bayern.de/vum/handlungsfelder/index.php
   	- <b>Moderne Mobilität in Bayern - Der Werkzeugkasten Mobilität trägt Wissen und Erfahrungen aus ganz Bayern zusammen: Von Kommunen für Kommunen</b>.https://www.wir-bewegen.bayern.de/
-- Berlin (see chapter "Local Transport Plans)
+- Berlin (see chapter "Urban Mobility Plans, Strategies, and Concepts; Local Transport Plans, etc")
 - Brandenburg
 	- <b>Mobilitätsstrategie 2030 des Landes Brandenburg</b>: https://mil.brandenburg.de/sixcms/media.php/9/Mobilitaetsstrategie-Brandenburg-2030.pdf
  	- <b>Radverkehrsstrategie 2030 des Landes Brandenburg</b> *(Cycling strategy 2030)*: https://mil.brandenburg.de/sixcms/media.php/9/Radverkehrsstrategie%202030%20des%20Landes%20Brandenburg.pdf
   	- <b>Resilient im Klimawandel – Klimaanpassung in Städten und Gemeinden</b>: https://mil.brandenburg.de/sixcms/media.php/9/Arbeitshilfe%20Resilient%20im%20Klimawandel.pdf	
  	- <b>Verkehrssicherheitsprogramm 2024</b>: https://mil.brandenburg.de/sixcms/media.php/9/Verkehrssicherheitsprogramm_2024_bf.pdf
   	- Overview: https://mil.brandenburg.de/mil/de/themen/mobilitaet-verkehr/
-- Bremen (see chapter "Local Transport Plans)
-- Hamburg (see chapter "Local Transport Plans)
+- Bremen (see chapter "Urban Mobility Plans, Strategies, and Concepts; Local Transport Plans, etc")
+- Hamburg (see chapter "Urban Mobility Plans, Strategies, and Concepts; Local Transport Plans, etc")
 - Hesse (Hessen)
 	- <b>Hessenstrategie Mobilität 2035</b>: https://www.mobileshessen2030.de/mm/105_55_Hessenstrategie_Mobilitat_2035_online.pdf
 	- <b>Nahmobilitätsstrategie für Hessen</b>: https://www.nahmobil-hessen.de/wp-content/uploads/2019/07/2019-07-23_Nahmobilit%C3%A4tsstrategie_GESAMT_web.pdf
