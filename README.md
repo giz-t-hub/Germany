@@ -81,7 +81,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Deutsche Anpassungsstrategie an den Klimawandel</b> *(German Strategy for Adaptation to Climate Change)*: https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Klimaanpassung/das_gesamt_bf.pdf
 	- <b>Klimawirkungs- und Risikoanalyse für Deutschland 2021 (Kurzfassung) </b>*(Climate Impact and Risk Analysis for Germany 2021 (short version))*: https://www.umweltbundesamt.de/en/publikationen/KWRA-Zusammenfassung
 	- <b>Aktionsplan Anpassung</b> *(Action plan adaptation)*: https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/anpassung-an-den-klimawandel/anpassung-auf-bundesebene-neu/aktionsplan-anpassung
-   
+ 	- Bundes-Klimaanpassungsgesetz (KAnG) *(Federal Climate Adaptation Act)*: https://www.recht.bund.de/bgbl/1/2023/393/VO.html
 
 - Energy policy 
     
