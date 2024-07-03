@@ -89,6 +89,8 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### Urban and regional development <a name="urban"></a> 
 
 - <b>Die Neue Leipzig-Charta</b>: https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/SharedDocs/Publikationen/DE/Publikationen/die_neue_leipzig_charta.pdf?__blob=publicationFile&v=7
+- <b>Gleichwertigkeitsbericht 2024: Für starke und lebenswerte Regionen in Deutschland </b> *(Equivalence Report 2024: For Strong and Livable Regions in Germany)*: https://www.bmwk.de/Redaktion/DE/Publikationen/Wirtschaft/gleichwertigkeitsbericht-der-bundesregierung-2024.pdf?__blob=publicationFile&v=40
+- 
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
