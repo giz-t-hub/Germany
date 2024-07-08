@@ -83,11 +83,11 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Aktionsplan Anpassung</b> *(Action plan adaptation)*: https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/anpassung-an-den-klimawandel/anpassung-auf-bundesebene-neu/aktionsplan-anpassung
  	- <b>Bundes-Klimaanpassungsgesetz (KAnG) </b> *(Federal Climate Adaptation Act)*: https://www.recht.bund.de/bgbl/1/2023/393/VO.html
   
--Adaption (Federal)	
-	-Baden-Württemberg
- 	-Bavaria (Bayern)
-  	-Berlin
-   		-<b>Umweltatlas Berlin</b>; https://www.berlin.de/umweltatlas/
+- Adaption (Federal)	
+	- Baden-Württemberg
+ 	- Bavaria (Bayern)
+  	- Berlin
+   		- <b>Umweltatlas Berlin</b>: https://www.berlin.de/umweltatlas/
 
 
 - Energy policy 
