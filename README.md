@@ -77,11 +77,18 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 	- <b>Bundes-Klimaschutzgesetz (KSG)</b> *(Federal Climate Protection Act)*; https://www.gesetze-im-internet.de/ksg/BJNR251310019.html
 	- <b>Klimaschutz im Verkehr – Strategien, Beratungs- und Vernetzungsaktivitäten</b> *(Climate protection in transport – strategies, advisory and networking activities)*: https://bmdv.bund.de/DE/Themen/Mobilitaet/Klimaschutz-im-Verkehr/Strategien-Beratungs-und-Vernetzungsaktivitaeten/strategien-beratungs-und-vernetzungsaktivitaeten.html
     
-- Adaptation
+- Adaptation (National)
 	- <b>Deutsche Anpassungsstrategie an den Klimawandel</b> *(German Strategy for Adaptation to Climate Change)*: https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Klimaanpassung/das_gesamt_bf.pdf
 	- <b>Klimawirkungs- und Risikoanalyse für Deutschland 2021 (Kurzfassung) </b>*(Climate Impact and Risk Analysis for Germany 2021 (short version))*: https://www.umweltbundesamt.de/en/publikationen/KWRA-Zusammenfassung
 	- <b>Aktionsplan Anpassung</b> *(Action plan adaptation)*: https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/anpassung-an-den-klimawandel/anpassung-auf-bundesebene-neu/aktionsplan-anpassung
  	- <b>Bundes-Klimaanpassungsgesetz (KAnG) </b> *(Federal Climate Adaptation Act)*: https://www.recht.bund.de/bgbl/1/2023/393/VO.html
+  
+-Adaption (Federal)	
+	-Baden-Württemberg
+ 	-Bavaria (Bayern)
+  	-Berlin
+   		-<b>Umweltatlas Berlin</b>; https://www.berlin.de/umweltatlas/
+
 
 - Energy policy 
     
