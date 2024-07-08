@@ -88,6 +88,34 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  	- Bavaria (Bayern)
   	- Berlin
    		- <b>Umweltatlas Berlin</b>: https://www.berlin.de/umweltatlas/
+  	    	- <b>Programm zur Anpassung an die Folgen des Klimawandels in Berlin<b>: https://www.berlin.de/sen/uvk/klimaschutz/anpassung-an-den-klimawandel/programm-zur-anpassung-an-die-folgen-des-klimawandels/
+  	- Brandenburg
+  	- Bremen
+  	- Hamburg
+  	- Hesse (Hessen)
+  	- Lower Saxony (Niedersachsen)
+  	  	- <b>Niedersächsicher Strategie zur Anpassung an die Folgen des Klimawandels 2021</b>:https://niko-klima.de/wp-content/uploads/2023/02/ministerium-umwelt-anpassungsstrategie-2022-02-22.pdf
+  	  	- <b>Klimafolgenmonitoringbericht für Niedersachsen 2023</b>: [https://niko-klima.de/publikationen/](https://niko-klima.de/wp-content/uploads/2024/01/Klimafolgenmonitoringbericht-fuer-Niedersachsen-2023.pdf)
+  	  	- <b>Klimareport Niedersachsen</b>: [https://niko-klima.de/publikationen/](https://niko-klima.de/wp-content/uploads/2023/02/Klimareport_Nds_Web.pdf)
+  	  	- <b>Dokumentation Niedersächsischer Klimaprojektionsdaten</b> : [https://www.umwelt.niedersachsen.de/startseite/themen/klima/Klimaanpassung/klimaanpassung-in-niedersachsen-199341.html](https://nibis.lbeg.de/DOI/dateien/Geofakten_39_Text_4_2022.pdf)
+  	- Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
+  	  	- <b>Klimareport Mecklenburg-Vorpommern 2018 </b> : [http://www.klimaschutzaktionen-mv.de/Service/Klimawandel-und-Anpassung/](https://www.regierung-mv.de/serviceassistent/download?id=1603976)
+  	  	- <b>Klimaanpassungsstrategie für den Ostseeraum (BALTADAPT)</b> : https://www.ecologic.eu/de/9936
+  	  	- <b>Aktionsplan Klimaschutz Mecklenburg-Vorpommern 2010 Teil A</b> : https://www.regierung-mv.de/serviceassistent/download?id=54482
+  	  	- <b>Aktionsplan Klimaschutz Mecklenburg-Vorpommern 2010 Teil B</b> : https://www.regierung-mv.de/serviceassistent/download?id=1621750
+  	  	- <b>Folgen des Klimawandels in Mecklenburg-Vorpommern 2010</b> : https://www.regierung-mv.de/serviceassistent/download?id=1659161
+  	  	- <b>Bodenschutzprogramm Mecklenburg Vorpommer Teil 2</b> : https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1596843
+	- North Rhine-Westphalia (Nordrhein-Westfalen)
+	- Rhineland-Palatinate (Rheinland-Pfalz)
+   		- <b>Abschlussdokument des Projekts KlimawandelAnpassungsCOACH RLP</b> : https://www.kwis-rlp.de/fileadmin/website/klimakompetenzzentrum/Klimawandelinformationssystem/Anpassungsportal/Anpassungscoach/KlimaCoach_Abschlussbroschure_210303.pdf
+       		- <b>Anpassungsprotal für Klimawandelforlgen in Rheinland-Pfalz</b> : https://www.klimawandel-rlp.de/anpassungsportal/
+           	- <b>Online-Handbuch für Komunen in Rheinland-Pfalz: Klimaschutz, Energie und Klimawandelanpassung in Bebauungsplänen</b> : https://klimaneutrales.rlp.de/klimaneutrales-rheinland-pfalz/handbuch
+	- Saarland
+	- Saxony (Sachsen)
+ 	- Saxony-Anhalt (Sachsen-Anhalt)
+	- Schleswig-Holstein
+	- Thuringia (Thüringen)
+  
 
 
 - Energy policy 
