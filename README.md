@@ -296,21 +296,24 @@ Bavaria (Bayern)
   	- <b>Berliner Energie- und Klimaschutzprogramm, Umsetzungszeitraum 2022 bis 2026</b> (Berlin Energy and Climate Protection Program, Implementation Period 2022 to 2026) : https://www.parlament-berlin.de/ados/19/IIIPlen/vorgang/d19-0778.pdf
 
 - Brandenburg
-<b>Strategie des Landes Brandenburg zur Anpassung an die Folgen des Klimawandels</b> (Strategy of the State of Brandenburg for Adapting to the Effects of Climate Change) : https://mluk.brandenburg.de/sixcms/media.php/9/Klimaanpassungsstrategie-Brandenburg-LF.pdf
+	- <b>Strategie des Landes Brandenburg zur Anpassung an die Folgen des Klimawandels</b> (Strategy of the State of Brandenburg for Adapting to the Effects of Climate Change) : https://mluk.brandenburg.de/sixcms/media.php/9/Klimaanpassungsstrategie-Brandenburg-LF.pdf
 Bremen
-<b>Klimaanpassungsstrategie Bremen und Bremerhaven, 2018</b> (Climate Adaptation Strategy Bremen and Bremerhaven, 2018) : https://www.klimaanpassung.bremen.de/sixcms/media.php/13/Klimaanpassungsstrategie_HB_BHV_2018_BILDSCHIRMANSICHT_WEB.pdf
-<b>Alle Downloads bezüglich Klimaschutz und Klimaanpassung</b> (All Downloads Regarding Climate Protection and Climate Adaptation) : https://www.klimaanpassung.bremen.de/downloads-links/downloads-20412
-Hamburg
-<b>Klimareport Hamburg</b> (Climate Report Hamburg) : https://www.hamburg.de/resource/blob/169398/d44fbb9879c5c8eb0d4c96b06936810c/d-kimareport-hamburg-dwd-data.pdf
-<b>Aktionsplan Anpassung an den Klimwandel</b> (Action Plan for Adaptation to Climate Change) : https://www.hamburg.de/resource/blob/153954/e1b7549bfc46806b9cafa9d89963bd62/d-20-8492-aktionsplan-anpassung-an-den-klimawandel-data.pdf
-<b>Hamburger Klimaplan, 2015</b> (Hamburg Climate Plan, 2015) : https://www.hamburg.de/resource/blob/169246/3b4eeab180bf49274ee8e666142be351/d-21-2521-hamburger-klimaplan-data.pdf
-<b>Erste Fortschreibung des Hamburger Klimaplans, 2019</b> (First Update of the Hamburg Climate Plan, 2019) : https://www.hamburg.de/resource/blob/169852/3c4a07823e5e834d085769a1918b774e/d-hamburger-klimaplan-2019-data.pdf
-<b>Klimainformationssystem Hamburg</b> (Climate Information System Hamburg) : https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/klimaschutz/klimaanpassung/klimainformationssystem
-Hesse (Hessen)
-<b>Der Klimaplan Hessen</b> (The Climate Plan Hesse) : https://www.klimaplan-hessen.de/der-klimaplan-hessen#:~:text=Wir%20machen%20Hessen%20klimaneutral!,im%20Vergleich%20zum%20Jahr%201990.
-Lower Saxony (Niedersachsen)
-<b>Niedersächsicher Strategie zur Anpassung an die Folgen des Klimawandels 2021</b> (Lower Saxony Strategy for Adapting to the Effects of Climate Change 2021) : https://niko-klima.de/wp-content/uploads/2023/02/ministerium-umwelt-anpassungsstrategie-2022-02-22.pdf
-<b>Klimafolgenmonitoringbericht für Niedersachsen 2023</b> (Climate Impact Monitoring Report for Lower Saxony 2023) : https://niko-klima.de/publikationen/
+	- <b>Klimaanpassungsstrategie Bremen und Bremerhaven, 2018</b> (Climate Adaptation Strategy Bremen and Bremerhaven, 2018) : https://www.klimaanpassung.bremen.de/sixcms/media.php/13/Klimaanpassungsstrategie_HB_BHV_2018_BILDSCHIRMANSICHT_WEB.pdf
+ 	- <b>Alle Downloads bezüglich Klimaschutz und Klimaanpassung</b> (All downloads regarding climate protection and climate adaptation): https://www.klimaanpassung.bremen.de/downloads-links/downloads-20412
+
+- Hamburg
+	- <b>Klimareport Hamburg</b> (Climate Report Hamburg) : https://www.hamburg.de/resource/blob/169398/d44fbb9879c5c8eb0d4c96b06936810c/d-kimareport-hamburg-dwd-data.pdf
+ 	- <b>Aktionsplan Anpassung an den Klimwandel</b> (Action Plan for Adaptation to Climate Change) : https://www.hamburg.de/resource/blob/153954/e1b7549bfc46806b9cafa9d89963bd62/d-20-8492-aktionsplan-anpassung-an-den-klimawandel-data.pdf
+  	- <b>Hamburger Klimaplan, 2015</b> (Hamburg Climate Plan, 2015) : https://www.hamburg.de/resource/blob/169246/3b4eeab180bf49274ee8e666142be351/d-21-2521-hamburger-klimaplan-data.pdf
+  	- <b>Erste Fortschreibung des Hamburger Klimaplans, 2019</b> (First Update of the Hamburg Climate Plan, 2019) : https://www.hamburg.de/resource/blob/169852/3c4a07823e5e834d085769a1918b774e/d-hamburger-klimaplan-2019-data.pdf
+  	- <b>Klimainformationssystem Hamburg</b> (Climate Information System Hamburg) : https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/klimaschutz/klimaanpassung/klimainformationssystem
+  	  
+- Hesse (Hessen)
+	- <b>Der Klimaplan Hessen</b> (The Climate Plan Hesse) : https://www.klimaplan-hessen.de/der-klimaplan-hessen#:~:text=Wir%20machen%20Hessen%20klimaneutral!,im%20Vergleich%20zum%20Jahr%201990.
+
+- Lower Saxony (Niedersachsen)
+	- <b>Niedersächsicher Strategie zur Anpassung an die Folgen des Klimawandels 2021</b> (Lower Saxony Strategy for Adapting to the Effects of Climate Change 2021) : https://niko-klima.de/wp-content/uploads/2023/02/ministerium-umwelt-anpassungsstrategie-2022-02-22.pdf
+ 	- <b>Klimafolgenmonitoringbericht für Niedersachsen 2023</b> (Climate Impact Monitoring Report for Lower Saxony 2023) : https://niko-klima.de/publikationen/
 <b>Klimareport Niedersachsen</b> (Climate Report Lower Saxony) : https://niko-klima.de/publikationen/
 <b>Dokumentation Niedersächsischer Klimaprojektionsdaten</b> (Documentation of Lower Saxony Climate Projection Data) : https://www.umwelt.niedersachsen.de/startseite/themen/klima/Klimaanpassung/klimaanpassung-in-niedersachsen-199341.html
 Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
