@@ -351,18 +351,20 @@ Bremen
 	- <b>Klimaanpassung in Landwirtschaft und Gartenbau</b> (Climate Adaptation in Agriculture and Horticulture) : https://www.klima.sachsen.de/landwirtschaft-12586.html
 	- <b>Klimaanpassung in Wald und Forstwirtschaft</b> (Climate Adaptation in Forestry and Forest Management) : https://www.klima.sachsen.de/wald-und-forstwirtschaft-12483.html
    
-Saxony-Anhalt (Sachsen-Anhalt)
-- <b>Anpassung an den Klimawandel: Dritter Umsetzungsbericht 2021 der Landesstrategie</b> (Adaptation to Climate Change: Third Implementation Report 2021 of the State Strategy) : https://mwu.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MWU/Klimaschutz/00_Startseite_Klimawandel/220330_Dritter_Umsetzungsbericht_bf.pdf
-- <b>Strategie des Landes zur Anpassung an den Klimawandel, Fortschreibung, Stand Februar 2019</b> (State Strategy for Adaptation to Climate Change, Update, as of February 2019) : https://mwu.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MWU/Klimaschutz/00_Startseite_Klimawandel/190403_Anpassungsstrategie_Klimawandel_barrierefrei_.pdf
+- Saxony-Anhalt (Sachsen-Anhalt)
+	- <b>Anpassung an den Klimawandel: Dritter Umsetzungsbericht 2021 der Landesstrategie</b> (Adaptation to Climate Change: Third Implementation Report 2021 of the State Strategy) : https://mwu.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MWU/Klimaschutz/00_Startseite_Klimawandel/220330_Dritter_Umsetzungsbericht_bf.pdf
+ 	- <b>Strategie des Landes zur Anpassung an den Klimawandel, Fortschreibung, Stand Februar 2019</b> (State Strategy for Adaptation to Climate Change, Update, as of February 2019) : https://mwu.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MWU/Klimaschutz/00_Startseite_Klimawandel/190403_Anpassungsstrategie_Klimawandel_barrierefrei_.pdf
 Schleswig-Holstein
-<b>Anpassung an den Klimawandel: Fahrplan für Schleswig-Holstein, 2017</b> (Adaptation to Climate Change: Roadmap for Schleswig-Holstein, 2017) : https://www.schleswig-holstein.de/DE/fachinhalte/K/klimaschutz/Downloads/Fahrplan.pdf?__blob=publicationFile&v=1
-<b>Klimaschutzprogramm 2030 (Entwurf)</b> (Climate Protection Program 2030 (Draft)) : https://www.schleswig-holstein.de/DE/fachinhalte/K/klimaschutz/Downloads/Fahrplan.pdf?__blob=publicationFile&v=1
-Thuringia (Thüringen)
-<b>Integriertes Maßnahmenprogramm zur Anpassung an die Folgen des Klimawandels im Freistaat Thüringen, 2019</b> (Integrated Action Program for Adaptation to the Effects of Climate Change in the Free State of Thuringia, 2019) : https://umwelt.thueringen.de/fileadmin/001_TMUEN/Unsere_Themen/Klima/Klimaanpassung/IMPAKT_II_Broschuere.pdf
-<b>Kommunale Hitze Toolbox Thüringen</b> (Municipal Heat Toolbox Thuringia) : https://umwelt.thueringen.de/fileadmin/001_TMUEN/Unsere_Themen/Klima/Klimaanpassung/Toolbox_Thueringen.pdf
-<b>Klimaleitfaden zur Wärmebelastung der Bevölkerung</b> (Climate Guide to Heat Stress on the Population) : https://www.klimaleitfaden-thueringen.de/waermebelastung
-<b>Klimaleitfaden zur Lokalen Überflutung durch Starkregen</b> (Climate Guide to Local Flooding from Heavy Rain) : https://www.klimaleitfaden-thueringen.de/starkregen
-<b>Klimaleitfaden zu Trockenstress für Kommunalgrün</b> (Climate Guide to Drought Stress for Municipal Green Areas) : https://www.klimaleitfaden-thueringen.de/trockenstress 
+	- <b>Anpassung an den Klimawandel: Fahrplan für Schleswig-Holstein, 2017</b> (Adaptation to Climate Change: Roadmap for Schleswig-Holstein, 2017) : https://www.schleswig-holstein.de/DE/fachinhalte/K/klimaschutz/Downloads/Fahrplan.pdf?__blob=publicationFile&v=1
+	- <b>Klimaschutzprogramm 2030 (Entwurf)</b> (Climate Protection Program 2030 (Draft)) : https://www.schleswig-holstein.de/DE/fachinhalte/K/klimaschutz/Downloads/Fahrplan.pdf?__blob=publicationFile&v=1
+
+- Thuringia (Thüringen)
+	- <b>Integriertes Maßnahmenprogramm zur Anpassung an die Folgen des Klimawandels im Freistaat Thüringen, 2019</b> (Integrated Action Program for Adaptation to the Effects of Climate Change in the Free State of Thuringia, 2019) : https://umwelt.thueringen.de/fileadmin/001_TMUEN/Unsere_Themen/Klima/Klimaanpassung/IMPAKT_II_Broschuere.pdf
+	- <b>Kommunale Hitze Toolbox Thüringen</b> (Municipal Heat Toolbox Thuringia) : https://umwelt.thueringen.de/fileadmin/001_TMUEN/Unsere_Themen/Klima/Klimaanpassung/Toolbox_Thueringen.pdf
+	- <b>Klimaleitfaden zur Wärmebelastung der Bevölkerung</b> (Climate Guide to Heat Stress on the Population) : https://www.klimaleitfaden-thueringen.de/waermebelastung
+	- <b>Klimaleitfaden zur Lokalen Überflutung durch Starkregen</b> (Climate Guide to Local Flooding from Heavy Rain) : https://www.klimaleitfaden-thueringen.de/starkregen
+	- <b>Klimaleitfaden zu Trockenstress für Kommunalgrün</b> (Climate Guide to Drought Stress for Municipal Green Areas) : https://www.klimaleitfaden-thueringen.de/trockenstress
+
 ### Studies and research papers <a name="studies-research"></a> 
 
 - Resources by Federal Environmental Agency:
