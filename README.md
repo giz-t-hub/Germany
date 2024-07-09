@@ -276,7 +276,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 
 - BMDV Nachhaltig-mobil-planen, support material, templates: https://nachhaltig-mobil-planen.de/_SUMP/DE/Informieren-Vernetzen/Materialien/materialien.html
 
-- Adaption (State level)
+### Adaptation (State level plans and initiatives) <a name="adaptation-state"></a> 
 	- Baden-Württemberg
 		- <b>Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg (KlimaG BW)</b> *(Climate Protection and Climate Change Adaptation Act Baden-Württemberg)*: https://www.landesrecht-bw.de/bsbw/document/jlr-KlimaSchGBW2023rahmen
  		- <b>Strategie zur Anpassung an den Klimawandel in Baden-Württemberg, 2023</b> (Strategy for Adaptation to Climate Change in Baden-Württemberg, 2023) : https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/4_Klima/Klimawandel/AnpassungsstrategieBW-2023.pdf
