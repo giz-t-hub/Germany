@@ -277,19 +277,19 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 - BMDV Nachhaltig-mobil-planen, support material, templates: https://nachhaltig-mobil-planen.de/_SUMP/DE/Informieren-Vernetzen/Materialien/materialien.html
 
 - Adaption (State level)
-- Baden-Württemberg
-	- <b>Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg (KlimaG BW)</b> *(Climate Protection and Climate Change Adaptation Act Baden-Württemberg)*: https://www.landesrecht-bw.de/bsbw/document/jlr-KlimaSchGBW2023rahmen
- 	- <b>Strategie zur Anpassung an den Klimawandel in Baden-Württemberg, 2023</b> (Strategy for Adaptation to Climate Change in Baden-Württemberg, 2023) : https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/4_Klima/Klimawandel/AnpassungsstrategieBW-2023.pdf
-  	- <b>Monitoringbericht 2020 zur Anpassungsstrategie an den Klimawandel in Baden-Württemberg</b> (Monitoring Report 2020 on the Adaptation Strategy to Climate Change in Baden-Württemberg) : https://pudi.lubw.de/detailseite/-/publication/10182
+	- Baden-Württemberg
+		- <b>Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg (KlimaG BW)</b> *(Climate Protection and Climate Change Adaptation Act Baden-Württemberg)*: https://www.landesrecht-bw.de/bsbw/document/jlr-KlimaSchGBW2023rahmen
+ 		- <b>Strategie zur Anpassung an den Klimawandel in Baden-Württemberg, 2023</b> (Strategy for Adaptation to Climate Change in Baden-Württemberg, 2023) : https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/4_Klima/Klimawandel/AnpassungsstrategieBW-2023.pdf
+  		- <b>Monitoringbericht 2020 zur Anpassungsstrategie an den Klimawandel in Baden-Württemberg</b> (Monitoring Report 2020 on the Adaptation Strategy to Climate Change in Baden-Württemberg) : https://pudi.lubw.de/detailseite/-/publication/10182
 Bavaria (Bayern)
-	- <b>Bayrische Klima-Apnassungsstrategie, 2016</b> (Bavarian Climate Adaptation Strategy, 2016) : https://www.bestellen.bayern.de/application/eshop_app000006?SID=2012051200&ACTIONxSESSxSHOWPIC(BILDxKEY:%27stmuv_klima_009%27,BILDxCLASS:%27Artikel%27,BILDxTYPE:%27PDF%27)
-	- <b>Klimafolgen und Klimaanpassung in Bayern: Monitoringbericht 2023</b> (Climate Impacts and Climate Adaptation in Bavaria: Monitoring Report 2023) : https://www.bestellen.bayern.de/application/eshop_app000006?SID=2012051200&ACTIONxSESSxSHOWPIC(BILDxKEY:%27stmuv_klima_020%27,BILDxCLASS:%27Artikel%27,BILDxTYPE:%27PDF%27)
-	- <b>Bayrisches Klimainformationssystem</b> (Bavarian Climate Information System) : https://klimainformationssystem.bayern.de/
-	- <b>Klima Report Bayern, 2021</b> (Climate Report Bavaria, 2021) : https://www.bestellen.bayern.de/application/eshop_app000006?SID=2012051200&ACTIONxSESSxSHOWPIC(BILDxKEY:%27stmuv_klima_012%27,BILDxCLASS:%27Artikel%27,BILDxTYPE:%27PDF%27)
- 	- <b>Leitfaden für klimaorientierte Kommunen in Bayern</b> (Guideline for Climate-Oriented Municipalities in Bavaria) : https://www.zsk.tum.de/fileadmin/w00bqp/www/PDFs/Leitfaeden/ZSK-TP1_Leitfaden_deutsch_komprimiert.pdf
-  -  <b>Das Bayrische Klimaschutzprogramm, 2022</b> (The Bavarian Climate Protection Program, 2022) : https://www.stmuv.bayern.de/themen/klimaschutz/klimaschutzgesetz/doc/klimaschutzprogramm_2022.pdf
-Berlin
-<b>Umweltatlas Berlin</b> (Environmental Atlas Berlin) : https://www.berlin.de/umweltatlas/
+		- <b>Bayrische Klima-Apnassungsstrategie, 2016</b> (Bavarian Climate Adaptation Strategy, 2016) : https://www.bestellen.bayern.de/application/eshop_app000006?SID=2012051200&ACTIONxSESSxSHOWPIC(BILDxKEY:%27stmuv_klima_009%27,BILDxCLASS:%27Artikel%27,BILDxTYPE:%27PDF%27)
+		- <b>Klimafolgen und Klimaanpassung in Bayern: Monitoringbericht 2023</b> (Climate Impacts and Climate Adaptation in Bavaria: Monitoring Report 2023) : https://www.bestellen.bayern.de/application/eshop_app000006?SID=2012051200&ACTIONxSESSxSHOWPIC(BILDxKEY:%27stmuv_klima_020%27,BILDxCLASS:%27Artikel%27,BILDxTYPE:%27PDF%27)
+		- <b>Bayrisches Klimainformationssystem</b> (Bavarian Climate Information System) : https://klimainformationssystem.bayern.de/
+		- <b>Klima Report Bayern, 2021</b> (Climate Report Bavaria, 2021) : https://www.bestellen.bayern.de/application/eshop_app000006?SID=2012051200&ACTIONxSESSxSHOWPIC(BILDxKEY:%27stmuv_klima_012%27,BILDxCLASS:%27Artikel%27,BILDxTYPE:%27PDF%27)
+ 		- <b>Leitfaden für klimaorientierte Kommunen in Bayern</b> (Guideline for Climate-Oriented Municipalities in Bavaria) : https://www.zsk.tum.de/fileadmin/w00bqp/www/PDFs/Leitfaeden/ZSK-TP1_Leitfaden_deutsch_komprimiert.pdf
+  		-  <b>Das Bayrische Klimaschutzprogramm, 2022</b> (The Bavarian Climate Protection Program, 2022) : https://www.stmuv.bayern.de/themen/klimaschutz/klimaschutzgesetz/doc/klimaschutzprogramm_2022.pdf
+- Berlin
+	- <b>Umweltatlas Berlin</b> (Environmental Atlas Berlin) : https://www.berlin.de/umweltatlas/
 <b>Programm zur Anpassung an die Folgen des Klimawandels in Berlin</b> (Program for Adaptation to the Effects of Climate Change in Berlin) : https://www.berlin.de/sen/uvk/klimaschutz/anpassung-an-den-klimawandel/programm-zur-anpassung-an-die-folgen-des-klimawandels/
 <b>Berliner Energie- und Klimaschutzprogramm, Umsetzungszeitraum 2022 bis 2026</b> (Berlin Energy and Climate Protection Program, Implementation Period 2022 to 2026) : https://www.parlament-berlin.de/ados/19/IIIPlen/vorgang/d19-0778.pdf
 Brandenburg
