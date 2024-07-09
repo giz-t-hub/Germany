@@ -314,37 +314,43 @@ Bremen
 - Lower Saxony (Niedersachsen)
 	- <b>Niedersächsicher Strategie zur Anpassung an die Folgen des Klimawandels 2021</b> (Lower Saxony Strategy for Adapting to the Effects of Climate Change 2021) : https://niko-klima.de/wp-content/uploads/2023/02/ministerium-umwelt-anpassungsstrategie-2022-02-22.pdf
  	- <b>Klimafolgenmonitoringbericht für Niedersachsen 2023</b> (Climate Impact Monitoring Report for Lower Saxony 2023) : https://niko-klima.de/publikationen/
-<b>Klimareport Niedersachsen</b> (Climate Report Lower Saxony) : https://niko-klima.de/publikationen/
-<b>Dokumentation Niedersächsischer Klimaprojektionsdaten</b> (Documentation of Lower Saxony Climate Projection Data) : https://www.umwelt.niedersachsen.de/startseite/themen/klima/Klimaanpassung/klimaanpassung-in-niedersachsen-199341.html
-Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
-<b>Klimareport Mecklenburg-Vorpommern, 2018</b> (Climate Report Mecklenburg-Western Pomerania, 2018) : http://www.klimaschutzaktionen-mv.de/Service/Klimawandel-und-Anpassung/
-<b>Klimaanpassungsstrategie für den Ostseeraum (BALTADAPT)</b> (Climate Adaptation Strategy for the Baltic Sea Region (BALTADAPT)) : https://www.ecologic.eu/de/9936
-<b>Aktionsplan Klimaschutz Mecklenburg-Vorpommern, 2010 Teil A</b> (Climate Protection Action Plan Mecklenburg-Western Pomerania, 2010 Part A) : https://www.regierung-mv.de/serviceassistent/download?id=54482
-<b>Aktionsplan Klimaschutz Mecklenburg-Vorpommern, 2010 Teil B</b> (Climate Protection Action Plan Mecklenburg-Western Pomerania, 2010 Part B) : https://www.regierung-mv.de/serviceassistent/download?id=1621750
-<b>Folgen des Klimawandels in Mecklenburg-Vorpommern, 2010</b> (Impacts of Climate Change in Mecklenburg-Western Pomerania, 2010) : https://www.regierung-mv.de/serviceassistent/download?id=1659161
-<b>Bodenschutzprogramm Mecklenburg Vorpommer, Teil 2</b> (Soil Protection Program Mecklenburg-Western Pomerania, Part 2) : https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1596843
-North Rhine-Westphalia (Nordrhein-Westfalen)
-<b>Klimaanpasungsgesetz Nordrhein-Westfalen (KlAnG)</b> (Climate Adaptation Act North Rhine-Westphalia) : https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=2&bes_id=46233&aufgehoben=N
-<b>Publikation zum Thema Klimaanpassung in NRW</b> (Publication on Climate Adaptation in NRW) : https://www.lanuv.nrw.de/klima/klimaanpassung-in-nrw/publikationen
-Rhineland-Palatinate (Rheinland-Pfalz)
-<b>Abschlussdokument des Projekts KlimawandelAnpassungsCOACH RLP</b> (Final Document of the Climate Change Adaptation Coach RLP Project) : https://www.kwis-rlp.de/fileadmin/website/klimakompetenzzentrum/Klimawandelinformationssystem/Anpassungsportal/Anpassungscoach/KlimaCoach_Abschlussbroschure_210303.pdf
-<b>Anpassungsprotal für Klimawandelforlgen in Rheinland-Pfalz</b> (Adaptation Portal for Climate Change Impacts in Rhineland-Palatinate) : https://www.klimawandel-rlp.de/anpassungsportal/
-<b>Online-Handbuch für Komunen in Rheinland-Pfalz: Klimaschutz, Energie und Klimawandelanpassung in Bebauungsplänen</b> (Online Handbook for Municipalities in Rhineland-Palatinate: Climate Protection, Energy, and Climate Change Adaptation in Development Plans) : https://klimaneutrales.rlp.de/klimaneutrales-rheinland-pfalz/handbuch
-Saarland
-<b>KlimaKomPass SAAR: Klimaanpassung im Saarland: eine Handreichung für Kommunen</b> (Climate Compass SAAR: Climate Adaptation in Saarland: A Guide for Municipalities) : https://izes.eu/wp-content/uploads/KlimaKomPass_IZES.pdf
-<b>Lokales Modellprojekt: "Landschaft und Klimawandel" in der Landschaft der Industriekultur Nord</b> (Local Model Project: "Landscape and Climate Change" in the Landscape of Industrial Culture North) : https://www.saarland.de/mibs/DE/portale/landesplanung/service/publikationen/Modellprojekt.pdf?__blob=publicationFile&v=1
-<b>Saarland-Plan</b> (Saarland Plan) : https://www.saarland.de/mukmav/DE/portale/klima/informationen/unser-saarland-plan
-Saxony (Sachsen)
-<b>Regionales Klimainformationssystem</b> (Regional Climate Information System) : https://www.klima.sachsen.de/rekis-regionales-klima-informationssystem-sachsen-sachsen-anhalt-und-thuringen-12461.html
-<b>Kommunale Klimasteckbriefe</b> (Municipal Climate Fact Sheets) : https://rekis.hydro.tu-dresden.de/kommunal/sachsen-k/daten-fakten/klima-steckbriefe/
-<b>Klimafolgen Monitoring</b> (Climate Impact Monitoring) : https://www.klima.sachsen.de/klimafolgenmonitoring-12477.html?_cp=%7B%7D
-<b>Klimawandel in Sachsen - wir passen uns an!</b> (Climate Change in Saxony - We Are Adapting!) : https://publikationen.sachsen.de/bdb/artikel/22321/documents/35455
-<b>Klimaanpassung in der Wasserwirtschaft</b> (Climate Adaptation in Water Management) : https://www.klima.sachsen.de/wasserhaushalt-wasserwirtschaft-und-talsperrenbewirtschaftung-12494.html
-<b>Klimaanpassung im Bodenschutz</b> (Climate Adaptation in Soil Protection) : https://www.klima.sachsen.de/wasserhaushalt-wasserwirtschaft-und-talsperrenbewirtschaftung-12494.html
-<b>Klimaanpassung in Landes- und Regionalplanung</b> (Climate Adaptation in State and Regional Planning) : https://www.klima.sachsen.de/landes-und-regionalplanung-12514.html
-<b>Klimaanpassung in der Biodiversität</b> (Climate Adaptation in Biodiversity) : https://www.klima.sachsen.de/klimawandel-und-biodiversitat-12489.html
-<b>Klimaanpassung in Landwirtschaft und Gartenbau</b> (Climate Adaptation in Agriculture and Horticulture) : https://www.klima.sachsen.de/landwirtschaft-12586.html
-<b>Klimaanpassung in Wald und Forstwirtschaft</b> (Climate Adaptation in Forestry and Forest Management) : https://www.klima.sachsen.de/wald-und-forstwirtschaft-12483.html
+  	- <b>Klimareport Niedersachsen</b> (Climate Report Lower Saxony) : https://niko-klima.de/publikationen/
+  	- <b>Dokumentation Niedersächsischer Klimaprojektionsdaten</b> (Documentation of Lower Saxony Climate Projection Data) : https://www.umwelt.niedersachsen.de/startseite/themen/klima/Klimaanpassung/klimaanpassung-in-niedersachsen-199341.html
+
+- Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)
+	- <b>Klimareport Mecklenburg-Vorpommern, 2018</b> (Climate Report Mecklenburg-Western Pomerania, 2018) : http://www.klimaschutzaktionen-mv.de/Service/Klimawandel-und-Anpassung/
+	- <b>Klimaanpassungsstrategie für den Ostseeraum (BALTADAPT)</b> (Climate Adaptation Strategy for the Baltic Sea Region (BALTADAPT)) : https://www.ecologic.eu/de/9936
+	- <b>Aktionsplan Klimaschutz Mecklenburg-Vorpommern, 2010 Teil A</b> (Climate Protection Action Plan Mecklenburg-Western Pomerania, 2010 Part A) : https://www.regierung-mv.de/serviceassistent/download?id=54482
+	- <b>Aktionsplan Klimaschutz Mecklenburg-Vorpommern, 2010 Teil B</b> (Climate Protection Action Plan Mecklenburg-Western Pomerania, 2010 Part B) : https://www.regierung-mv.de/serviceassistent/download?id=1621750
+	- <b>Folgen des Klimawandels in Mecklenburg-Vorpommern, 2010</b> (Impacts of Climate Change in Mecklenburg-Western Pomerania, 2010) : https://www.regierung-mv.de/serviceassistent/download?id=1659161
+	- <b>Bodenschutzprogramm Mecklenburg Vorpommer, Teil 2</b> (Soil Protection Program Mecklenburg-Western Pomerania, Part 2) : https://www.regierung-mv.de/serviceassistent/_php/download.php?datei_id=1596843
+   
+- North Rhine-Westphalia (Nordrhein-Westfalen)
+	- <b>Klimaanpasungsgesetz Nordrhein-Westfalen (KlAnG)</b> (Climate Adaptation Act North Rhine-Westphalia) : https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=2&bes_id=46233&aufgehoben=N
+ 	- <b>Publikation zum Thema Klimaanpassung in NRW</b> (Publication on Climate Adaptation in NRW) : https://www.lanuv.nrw.de/klima/klimaanpassung-in-nrw/publikationen
+
+- Rhineland-Palatinate (Rheinland-Pfalz)
+	- <b>Abschlussdokument des Projekts KlimawandelAnpassungsCOACH RLP</b> (Final Document of the Climate Change Adaptation Coach RLP Project) : https://www.kwis-rlp.de/fileadmin/website/klimakompetenzzentrum/Klimawandelinformationssystem/Anpassungsportal/Anpassungscoach/KlimaCoach_Abschlussbroschure_210303.pdf
+ 	- <b>Anpassungsprotal für Klimawandelforlgen in Rheinland-Pfalz</b> (Adaptation Portal for Climate Change Impacts in Rhineland-Palatinate) : https://www.klimawandel-rlp.de/anpassungsportal/
+  	- <b>Online-Handbuch für Komunen in Rheinland-Pfalz: Klimaschutz, Energie und Klimawandelanpassung in Bebauungsplänen</b> (Online Handbook for Municipalities in Rhineland-Palatinate: Climate Protection, Energy, and Climate Change Adaptation in Development Plans) : https://klimaneutrales.rlp.de/klimaneutrales-rheinland-pfalz/handbuch
+  	  
+- Saarland
+	- <b>KlimaKomPass SAAR: Klimaanpassung im Saarland: eine Handreichung für Kommunen</b> (Climate Compass SAAR: Climate Adaptation in Saarland: A Guide for Municipalities) : https://izes.eu/wp-content/uploads/KlimaKomPass_IZES.pdf
+ 	- <b>Lokales Modellprojekt: "Landschaft und Klimawandel" in der Landschaft der Industriekultur Nord</b> (Local Model Project: "Landscape and Climate Change" in the Landscape of Industrial Culture North) : https://www.saarland.de/mibs/DE/portale/landesplanung/service/publikationen/Modellprojekt.pdf?__blob=publicationFile&v=1
+  	- <b>Saarland-Plan</b> (Saarland Plan) : https://www.saarland.de/mukmav/DE/portale/klima/informationen/unser-saarland-plan
+
+- Saxony (Sachsen)
+	- <b>Regionales Klimainformationssystem</b> (Regional Climate Information System) : https://www.klima.sachsen.de/rekis-regionales-klima-informationssystem-sachsen-sachsen-anhalt-und-thuringen-12461.html
+ 	- <b>Kommunale Klimasteckbriefe</b> (Municipal Climate Fact Sheets) : https://rekis.hydro.tu-dresden.de/kommunal/sachsen-k/daten-fakten/klima-steckbriefe/
+  	- <b>Klimafolgen Monitoring</b> (Climate Impact Monitoring) : https://www.klima.sachsen.de/klimafolgenmonitoring-12477.html?_cp=%7B%7D
+  	- <b>Klimawandel in Sachsen - wir passen uns an!</b> (Climate Change in Saxony - We Are Adapting!) : https://publikationen.sachsen.de/bdb/artikel/22321/documents/35455
+  	- <b>Klimaanpassung in der Wasserwirtschaft</b> (Climate Adaptation in Water Management) : https://www.klima.sachsen.de/wasserhaushalt-wasserwirtschaft-und-talsperrenbewirtschaftung-12494.html
+  	- <b>Klimaanpassung im Bodenschutz</b> (Climate Adaptation in Soil Protection) : https://www.klima.sachsen.de/wasserhaushalt-wasserwirtschaft-und-talsperrenbewirtschaftung-12494.html
+  	- <b>Klimaanpassung in Landes- und Regionalplanung</b> (Climate Adaptation in State and Regional Planning) : https://www.klima.sachsen.de/landes-und-regionalplanung-12514.html
+  	- <b>Klimaanpassung in der Biodiversität</b> (Climate Adaptation in Biodiversity) : https://www.klima.sachsen.de/klimawandel-und-biodiversitat-12489.html
+	- <b>Klimaanpassung in Landwirtschaft und Gartenbau</b> (Climate Adaptation in Agriculture and Horticulture) : https://www.klima.sachsen.de/landwirtschaft-12586.html
+	- <b>Klimaanpassung in Wald und Forstwirtschaft</b> (Climate Adaptation in Forestry and Forest Management) : https://www.klima.sachsen.de/wald-und-forstwirtschaft-12483.html
+   
 Saxony-Anhalt (Sachsen-Anhalt)
 - <b>Anpassung an den Klimawandel: Dritter Umsetzungsbericht 2021 der Landesstrategie</b> (Adaptation to Climate Change: Third Implementation Report 2021 of the State Strategy) : https://mwu.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MWU/Klimaschutz/00_Startseite_Klimawandel/220330_Dritter_Umsetzungsbericht_bf.pdf
 - <b>Strategie des Landes zur Anpassung an den Klimawandel, Fortschreibung, Stand Februar 2019</b> (State Strategy for Adaptation to Climate Change, Update, as of February 2019) : https://mwu.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MWU/Klimaschutz/00_Startseite_Klimawandel/190403_Anpassungsstrategie_Klimawandel_barrierefrei_.pdf
