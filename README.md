@@ -375,9 +375,11 @@ Schleswig-Holstein
 - <b>Mobilitäts- und Angebotsstrategien im ländlichen Raum</b> *(Mobility and Service Strategies in Rural Areas)*:  https://bmdv.bund.de/SharedDocs/DE/Publikationen/G/mobilitaets-und-angebotsstrategien-in-laendlichen-raeumen-neu.pdf?__blob=publicationFile
 - <b>Bestandserhebung und -analyse in Bezug auf nachhaltige urbane Mobilitätspläne (Sustainable Urban Mobility Plans - SUMPs) in deutschen Kommunen mit über 100.000 Einwohnern</b> *(Inventory and Analysis Regarding Sustainable Urban Mobility Plans (SUMPs) in German Municipalities with over 100,000 Inhabitants)*: https://bmdv.bund.de/SharedDocs/DE/Anlage/G/sump-abschlussbericht-bestandserhebung-lang.pdf?__blob=publicationFile
 - Parkverbote für „Monster-SUV“? Gestaltungsmöglichkeiten zur Beschränkung des innerstädtischen Parkraumes für übermäßig große Pkw: https://www.duh.de/fileadmin/user_upload/download/Projektinformation/Verkehr/SUV/2024_06_07_SUV_Parkfla%CC%88chen_Gutachten_final.pdf
+- <b> Nachhaltige städtische Mobilität für alle - Agenda für eine Verkehrswende aus kommunaler Sicht </b> *(Sustainable Urban Mobility for All - Agenda for a mobility transition from municipal standpoint - A position paper by the Association of German Cities)*: https://www.staedtetag.de/files/dst/docs/Publikationen/Positionspapiere/Archiv/nachhaltige-staedtische-mobilitaet-2018.pdf ; EN: https://www.staedtetag.de/files/dst/docs/Publikationen/Publications-in-English/position-paper-sustainable-urban-mobility-for-all.pdf
+
 
 - History channel:
-	- <b>Verkehrsbericht 2000 - Integrierte Verkehrspolitik: Unser Konzept für eine mobile Zukunft</b> *(Traansport Report 2000 - Integrated Transport Policy: Our Concept for a Mobile Future)*: https://dserver.bundestag.de/btd/14/046/1404688.pdf
+	- <b>Verkehrsbericht 2000 - Integrierte Verkehrspolitik: Unser Konzept für eine mobile Zukunft</b> *(Transport Report 2000 - Integrated Transport Policy: Our Concept for a Mobile Future)*: https://dserver.bundestag.de/btd/14/046/1404688.pdf
  - 
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
@@ -412,4 +414,4 @@ For more information about our work, please refer to:
 		
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of May 2024)
+- (as of August 2024)
