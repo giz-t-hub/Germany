@@ -195,6 +195,7 @@ https://mil.brandenburg.de/sixcms/media.php/9/Verkehrssicherheitsprogramm2034.pd
    	- <b>Nahverkehrsplan </b>*(public transport plan)*: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/oeffentlicher-personennahverkehr/nahverkehrsplan/
 	- <b>Integriertes Wirtschaftsverkehrskonzept (IWVK)</b> *(Integrated Logistics Concept)*: https://www.berlin.de/sen/uvk/_assets/verkehr/verkehrspolitik/iwvk/broschuere_iwvk.pdf?ts=1705017672
  	- Logistics: https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2023/ausgabe-nr-28-vom-13102023-s-333-344.pdf?ts=1697028237
+ 	- Berlin - Road safety program City of Berlin/Germany: https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrspolitik/verkehrssicherheit/verkehrssicherheitsprogramm/#:~:text=Am%2011.02.2025%20hat%20der%20Senat%20das%20Verkehrssicherheitsprogramm%20Berlin,nachhaltig%20im%20Vergleich%20zum%20Basisjahr%202019%20zu%20reduzieren. - On 11.02.2025, the Senate adopted the Berlin 2030 Road Safety Programme. The aim is to steadily and sustainably reduce the number of traffic accidents with fatalities and serious injuries by 2030 compared to the base year 2019. In the long term, the state of Berlin, together with the citizens, is striving to come as close as possible to the guiding principle of 'Vision Zero'.
 - Bielefeld
 	- <b>Mobilitätsstrategie Bielefeld</b> *(Mobility Strategy Bielefeld)*: https://bielefeld.wideviu.de/wp-content/uploads/sites/88/2019/05/Rupprecht_Consult-1.pdf
 - Bochum
