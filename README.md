@@ -69,6 +69,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
  
 - Roads:
 	- <b>Verkehrssicherheitsprogramm der Bundesregierung 2021-2030</b>  *(Federal Government's Road Safety Programme 2021-2030)*, BMDV, 2023: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/broschuere-verkehrssicherheitsprogramm-2021-bis-2030.pdf?__blob=publicationFile
+ 	- <b> The future drives autonomously </b> (*Die Zukunft fährt autonom*) BMDV Germany: https://bmdv.bund.de/SharedDocs/DE/Publikationen/DG/die-zukunft-faehrt-autonom.html - *Germany is becoming more and more digital – and this also applies to transport and mobility. Autonomous and connected driving will play a central role in this in the future. With the strategy for autonomous driving in road traffic, the German government wants to further advance this technology and take advantage of its enormous opportunities.* 
 
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
