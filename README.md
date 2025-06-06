@@ -44,7 +44,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 	- <b> Nationaler Radverkehrsplan 3.0</b> *(National Cycling Plan 3.0)*: https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Radverkehr/nationaler-radverkehrsplan-3-0.html; EN: https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/nationaler-radverkehrsplan-3-0-en.pdf?__blob=publicationFile
 
 - Walking:
-	- <b> Pedestrian Strategy </b> *(Fußverkehrsstrategie)*: https://bmdv.bund.de/SharedDocs/DE/Publikationen/StV/fussverkehrsstrategie.pdf?__blob=publicationFile - *The Pedestrian Strategy is intended to strengthen pedestrian traffic as an equal component of modern and environmentally friendly mobility . The focus is on safety, attractiveness and accessibility of pedestrian traffic. The strategy provides the states and municipalities responsible for pedestrian traffic with recommendations for action to improve the conditions for pedestrian traffic in Germany.*  
+	- <b> Pedestrian Strategy </b> *(Fußverkehrsstrategie)*: https://www.bmv.de/SharedDocs/DE/Publikationen/StV/fussverkehrsstrategie.pdf?__blob=publicationFile - *The Pedestrian Strategy is intended to strengthen pedestrian traffic as an equal component of modern and environmentally friendly mobility . The focus is on safety, attractiveness and accessibility of pedestrian traffic. The strategy provides the states and municipalities responsible for pedestrian traffic with recommendations for action to improve the conditions for pedestrian traffic in Germany.*  
     
 - Electric mobility:
 	- <b>Elektromobilität in Deutschland </b>*(Electric Mobility in Germany)* (Overview): https://www.bmwk.de/Redaktion/DE/Dossier/elektromobilitaet.html; EN: https://www.bmwk.de/Redaktion/EN/Dossier/electric-mobility.html
