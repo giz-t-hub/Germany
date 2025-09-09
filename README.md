@@ -107,7 +107,7 @@ Freight transport and logistics - Sustainable and efficient into the future)*: h
 ### Digitalisation <a name="digitalisation"></a>
 
 - <b> Digitalstrategie - Gemeinsam digitale Werte schöpfen</b>  *(Digital strategy - Creating digital value together)*: https://digitalstrategie-deutschland.de/ ; https://digitalstrategie-deutschland.de/static/67803f22e4a62d19e9cf193c06999bcf/220830_Digitalstrategie_fin-barrierefrei.pdf
-- <b> High Tech Agende Mobility </b> -  https://www.bmftr.bund.de/DE/Forschung/HightechAgenda/DossierHightechAgenda/Dossier_HightechAgenda/_documents/6_technologien_klimaneutrale_mobilit%C3%A4t.html?nn=1104712
+- <b> High Tech Agenda Mobility </b> -  https://www.bmftr.bund.de/DE/Forschung/HightechAgenda/DossierHightechAgenda/Dossier_HightechAgenda/_documents/6_technologien_klimaneutrale_mobilit%C3%A4t.html?nn=1104712
 
 ### Gender and Equality <a name="gender"></a>
 
